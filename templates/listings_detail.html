@@ -1,0 +1,71 @@
+{% extends "base.html" %}
+{% block content %}
+{% if not listing %}
+  <div class="card"><div class="card-pad"><h3>Listing not found</h3></div></div>
+{% else %}
+  <div class="card">
+    <div style="height:320px; background: rgba(255,255,255,.04); border-bottom:1px solid rgba(255,255,255,.06); overflow:hidden;">
+      {% if listing["image"] %}
+        <img src="/static/uploads/{{ listing['image'] }}" style="width:100%; height:100%; object-fit:cover;">
+      {% else %}
+        <img src="https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=1400&q=60"
+             style="width:100%; height:100%; object-fit:cover;">
+      {% endif %}
+    </div>
+
+    <div class="card-pad" style="padding:22px;">
+      <div style="display:flex; justify-content:space-between; gap:12px; flex-wrap:wrap;">
+        <div>
+          <div class="muted" style="text-transform:uppercase; letter-spacing:.6px; font-size:12px;">
+            {{ listing['vehicle_type'] }} • {{ listing['city'] }}
+          </div>
+          <h2 style="margin:6px 0 0;">{{ listing['brand'] }} {{ listing['model'] }}</h2>
+          <div class="muted" style="margin-top:8px;">
+            {{ listing['year'] }} • {{ listing['kms'] }} km • {{ listing['fuel_type'] }} • {{ listing['transmission'] }} • Owner {{ listing['owner_count'] }}
+          </div>
+        </div>
+
+        <div style="text-align:right;">
+          <div style="font-size:28px; font-weight:900;">₹{{ listing['listed_price'] }}</div>
+          <div class="muted">listed price</div>
+          <div style="margin-top:8px;">
+            {% if listing['price_tag'] == "Underpriced" %}
+              <span class="badge ok">Underpriced</span>
+            {% elif listing['price_tag'] == "Fair" %}
+              <span class="badge warn">Fair</span>
+            {% elif listing['price_tag'] == "Overpriced" %}
+              <span class="badge bad">Overpriced</span>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+
+      <div class="grid" style="grid-template-columns: repeat(3, minmax(0,1fr)); margin-top:18px;">
+        <div class="card"><div class="card-pad">
+          <div class="muted" style="font-size:12px;">Predicted Range</div>
+          <div style="font-weight:900; font-size:18px;">
+            {% if low is not none %}₹{{ low }} – ₹{{ high }}{% else %}—{% endif %}
+          </div>
+          <div class="muted" style="font-size:12px; margin-top:6px;">
+            {% if listing['predicted_price'] %}Center: ₹{{ listing['predicted_price'] }}{% endif %}
+          </div>
+        </div></div>
+
+        <div class="card"><div class="card-pad">
+          <div class="muted" style="font-size:12px;">Condition</div>
+          <div style="font-weight:900; font-size:18px;">{{ listing['condition_score'] }}/5</div>
+        </div></div>
+
+        <div class="card"><div class="card-pad">
+          <div class="muted" style="font-size:12px;">Seller</div>
+          <div style="font-weight:900; font-size:18px;">{{ listing['seller'] }}</div>
+        </div></div>
+      </div>
+
+      <div style="margin-top:18px;">
+        <a class="btn" href="/listings">← Back to Marketplace</a>
+      </div>
+    </div>
+  </div>
+{% endif %}
+{% endblock %}

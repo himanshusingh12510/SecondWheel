@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="card">
+  <div class="card-pad">
+    <h2 style="margin:0 0 14px;">Price Predictor</h2>
+    <form method="POST">
+      <div class="row">
+        <div><label>Vehicle Type</label><input class="input" name="vehicle_type" placeholder="car/bike/truck/auto" required></div>
+        <div><label>Brand</label><input class="input" name="brand" required></div>
+        <div><label>Model</label><input class="input" name="model" required></div>
+        <div><label>Year</label><input class="input" type="number" name="year" required></div>
+        <div><label>KMs Driven</label><input class="input" type="number" name="kms" required></div>
+        <div><label>Fuel Type</label><input class="input" name="fuel_type" placeholder="Petrol/Diesel/CNG" required></div>
+        <div><label>Transmission</label><input class="input" name="transmission" placeholder="Manual/Automatic" required></div>
+        <div><label>Owner Count</label><input class="input" type="number" name="owner_count" required></div>
+        <div><label>City</label><input class="input" name="city" required></div>
+        <div><label>Condition (1-5)</label><input class="input" type="number" name="condition_score" min="1" max="5" required></div>
+      </div>
+      <div style="margin-top:12px;">
+        <button class="btn primary">Predict</button>
+      </div>
+    </form>
+  </div>
+</div>
+{% endblock %}

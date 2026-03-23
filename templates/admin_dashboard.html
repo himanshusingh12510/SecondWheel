@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="card">
+  <div class="card-pad">
+    <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px;">
+      <h2 style="margin:0;">Admin Dashboard</h2>
+      <a class="btn" href="/admin/logout">Logout</a>
+    </div>
+
+    {% if pending|length == 0 %}
+      <div style="margin-top:14px;" class="muted">No pending listings.</div>
+    {% else %}
+      <div style="margin-top:14px; display:grid; gap:12px;">
+        {% for p in pending %}
+          <div class="card">
+            <div class="card-pad">
+              <b>{{ p['vehicle_type'] }} - {{ p['brand'] }} {{ p['model'] }}</b>
+              <div class="muted" style="margin-top:6px;">
+                {{ p['year'] }} • {{ p['kms'] }} km • {{ p['city'] }} • Seller: {{ p['seller'] }}
+              </div>
+              <div style="margin-top:8px;">
+                Listed: ₹{{ p['listed_price'] }} | Predicted: ₹{{ p['predicted_price'] }}
+                {% if p['price_tag'] == "Underpriced" %}
+                  <span class="badge ok">Underpriced</span>
+                {% elif p['price_tag'] == "Fair" %}
+                  <span class="badge warn">Fair</span>
+                {% elif p['price_tag'] == "Overpriced" %}
+                  <span class="badge bad">Overpriced</span>
+                {% endif %}
+              </div>
+
+              <div style="margin-top:12px; display:flex; gap:10px; flex-wrap:wrap;">
+                <a class="btn success" href="/admin/action/{{ p['id'] }}/APPROVED">Approve</a>
+                <a class="btn danger" href="/admin/action/{{ p['id'] }}/REJECTED">Reject</a>
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    {% endif %}
+  </div>
+</div>
+{% endblock %}

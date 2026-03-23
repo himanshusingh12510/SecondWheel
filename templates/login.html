@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="card">
+  <div class="card-pad" style="max-width:520px; margin:0 auto;">
+    <h2 style="margin:0 0 14px;">Login</h2>
+    <form method="POST">
+      <label>Email</label>
+      <input class="input" name="email" required>
+      <div style="height:10px;"></div>
+      <label>Password</label>
+      <input class="input" type="password" name="password" required>
+      <div style="margin-top:14px;">
+        <button class="btn primary" style="width:100%;">Login</button>
+      </div>
+    </form>
+  </div>
+</div>
+{% endblock %}

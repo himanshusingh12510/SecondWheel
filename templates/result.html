@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="card">
+  <div class="card-pad">
+    <h2 style="margin:0 0 10px;">Prediction Result</h2>
+    <p class="muted" style="margin:0 0 14px;">Estimated market price range (based on model MAE).</p>
+
+    <div style="font-size:34px; font-weight:900;">₹{{ low }} – ₹{{ high }}</div>
+    <div class="muted" style="margin-top:6px;">Center estimate: ₹{{ predicted }} • MAE ≈ ₹{{ mae }}</div>
+
+    <div style="margin-top:14px;">
+      <a class="btn" href="/predict">Predict Another</a>
+      <a class="btn success" href="/post">Post Listing</a>
+    </div>
+  </div>
+</div>
+{% endblock %}

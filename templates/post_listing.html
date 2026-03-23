@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="card">
+  <div class="card-pad">
+    <h2 style="margin:0 0 14px;">Post Listing</h2>
+    <form method="POST" enctype="multipart/form-data">
+      <div class="row">
+        <div><label>Vehicle Type</label><input class="input" name="vehicle_type" required></div>
+        <div><label>Brand</label><input class="input" name="brand" required></div>
+        <div><label>Model</label><input class="input" name="model" required></div>
+        <div><label>Year</label><input class="input" type="number" name="year" required></div>
+        <div><label>KMs Driven</label><input class="input" type="number" name="kms" required></div>
+        <div><label>Fuel Type</label><input class="input" name="fuel_type" required></div>
+        <div><label>Transmission</label><input class="input" name="transmission" required></div>
+        <div><label>Owner Count</label><input class="input" type="number" name="owner_count" required></div>
+        <div><label>City</label><input class="input" name="city" required></div>
+        <div><label>Condition (1-5)</label><input class="input" type="number" min="1" max="5" name="condition_score" required></div>
+        <div><label>Listed Price</label><input class="input" type="number" name="listed_price" required></div>
+        <div><label>Image</label><input class="input" type="file" name="image"></div>
+      </div>
+      <div style="margin-top:12px;">
+        <button class="btn success">Submit Listing</button>
+      </div>
+    </form>
+  </div>
+</div>
+{% endblock %}

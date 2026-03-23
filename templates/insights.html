@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="card">
+  <div class="card-pad" style="padding:22px;">
+    <h2 style="margin:0;">Model Insights</h2>
+    <p class="muted" style="margin:8px 0 0;">
+      Top features affecting vehicle price prediction (RandomForest feature importance).
+    </p>
+
+    <div style="margin-top:16px; display:grid; gap:10px;">
+      {% for name, score in top %}
+        <div class="card" style="background: rgba(255,255,255,.04);">
+          <div class="card-pad" style="display:flex; justify-content:space-between; align-items:center; gap:12px;">
+            <div style="font-weight:800;">{{ name }}</div>
+            <div class="muted" style="min-width:120px; text-align:right;">{{ (score*100) | round(2) }}%</div>
+          </div>
+          <div style="height:10px; margin:0 16px 16px; border-radius:999px; background: rgba(255,255,255,.06); overflow:hidden;">
+            <div style="height:100%; width: {{ (score*100) | round(2) }}%; background: linear-gradient(135deg, #4f46e5, #22c55e);"></div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+
+    <div class="muted" style="margin-top:14px; font-size:12px;">
+      Viva tip: Explain that OneHotEncoder converts categories (brand/city/fuel) into numeric features, then RandomForest learns patterns.
+    </div>
+  </div>
+</div>
+{% endblock %}

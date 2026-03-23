@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="card">
+  <div class="card-pad" style="max-width:520px; margin:0 auto;">
+    <h2 style="margin:0 0 14px;">Admin Login</h2>
+    <form method="POST">
+      <label>Admin Password</label>
+      <input class="input" type="password" name="password" required>
+      <div style="margin-top:14px;">
+        <button class="btn danger" style="width:100%;">Login</button>
+      </div>
+    </form>
+    <p class="muted" style="margin-top:12px;">Default password: admin123</p>
+  </div>
+</div>
+{% endblock %}

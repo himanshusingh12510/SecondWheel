@@ -1,0 +1,1501 @@
+vehicle_type,brand,model,year,kms,fuel_type,transmission,owner_count,city,condition_score,price
+car,Maruti,Model_3,2021,16881,CNG,Automatic,2,Bhubaneswar,5,756238
+bike,Honda,Model_1,2015,53023,CNG,Automatic,2,Bhubaneswar,2,20000
+car,Maruti,Model_3,2014,129112,CNG,Automatic,3,Bhubaneswar,1,351776
+truck,Tata,Model_1,2019,130442,Diesel,Manual,2,Ranchi,1,149116
+car,Maruti,Model_1,2010,93732,Diesel,Automatic,3,Ranchi,1,342536
+car,Maruti,Model_1,2011,122437,Diesel,Manual,3,Raipur,3,325126
+truck,Tata,Model_5,2019,144467,Diesel,Automatic,3,Bhubaneswar,4,151066
+bike,Hero,Model_3,2015,24058,CNG,Manual,1,Bhopal,3,20000
+auto,Bajaj,Model_1,2015,139131,Petrol,Manual,1,Indore,1,20000
+car,Honda,Model_4,2019,61527,Diesel,Automatic,3,Raipur,5,626946
+car,Hyundai,Model_5,2022,51528,Petrol,Automatic,3,Indore,5,706944
+auto,TVS,Model_4,2022,31175,CNG,Manual,2,Bhopal,2,67650
+car,Honda,Model_4,2016,145063,Petrol,Manual,2,Ranchi,4,389874
+auto,Bajaj,Model_5,2019,48363,CNG,Automatic,1,Bhubaneswar,3,20000
+car,Tata,Model_3,2013,115862,CNG,Automatic,3,Ranchi,1,358276
+auto,TVS,Model_4,2010,101021,CNG,Manual,1,Bhubaneswar,1,20000
+auto,Bajaj,Model_4,2018,58172,CNG,Automatic,3,Ranchi,4,20000
+truck,Ashok Leyland,Model_5,2021,15696,Diesel,Manual,3,Ranchi,2,428608
+truck,Ashok Leyland,Model_5,2023,84779,Petrol,Automatic,1,Bhubaneswar,3,340442
+truck,Ashok Leyland,Model_5,2021,134718,Petrol,Automatic,2,Ranchi,4,210564
+truck,Ashok Leyland,Model_3,2017,105712,CNG,Manual,2,Bhopal,5,198576
+bike,Yamaha,Model_1,2013,62560,Petrol,Automatic,2,Bhopal,1,20000
+truck,Ashok Leyland,Model_4,2015,138463,Petrol,Automatic,1,Ranchi,5,93074
+auto,TVS,Model_1,2011,32542,Diesel,Manual,1,Bhubaneswar,4,20000
+auto,TVS,Model_4,2010,69835,Petrol,Automatic,2,Indore,4,20000
+truck,Ashok Leyland,Model_5,2010,53369,Petrol,Manual,2,Ranchi,5,163262
+auto,TVS,Model_3,2017,7907,Diesel,Automatic,3,Bhopal,5,44186
+truck,Tata,Model_5,2010,126120,CNG,Automatic,1,Bhubaneswar,4,20000
+auto,Bajaj,Model_2,2013,42484,Petrol,Manual,3,Ranchi,2,20000
+truck,Tata,Model_2,2019,15665,Diesel,Automatic,1,Bhubaneswar,3,398670
+truck,Ashok Leyland,Model_4,2011,148277,Petrol,Automatic,3,Raipur,1,20000
+truck,Ashok Leyland,Model_3,2020,109339,Petrol,Automatic,2,Bhopal,2,221322
+bike,Yamaha,Model_3,2014,25806,Diesel,Manual,3,Ranchi,3,20000
+bike,TVS,Model_3,2016,108285,Petrol,Automatic,2,Ranchi,5,20000
+auto,Bajaj,Model_5,2013,114660,Diesel,Automatic,3,Bhopal,5,20000
+auto,TVS,Model_2,2014,12242,Diesel,Manual,2,Raipur,1,20000
+car,Honda,Model_5,2017,78315,Diesel,Automatic,1,Bhopal,3,533370
+bike,Hero,Model_3,2013,42340,Diesel,Automatic,2,Bhopal,3,20000
+car,Hyundai,Model_2,2019,68196,CNG,Manual,3,Ranchi,2,583608
+auto,Bajaj,Model_1,2010,147839,CNG,Manual,3,Bhubaneswar,1,20000
+bike,TVS,Model_2,2019,143523,Diesel,Manual,2,Bhubaneswar,3,20000
+bike,Honda,Model_2,2021,29122,CNG,Automatic,1,Raipur,4,20000
+auto,Bajaj,Model_3,2015,35894,Petrol,Automatic,3,Raipur,4,20000
+auto,Bajaj,Model_4,2021,92055,Diesel,Automatic,2,Bhopal,1,20000
+car,Maruti,Model_2,2013,126770,CNG,Manual,3,Bhubaneswar,4,366460
+auto,Bajaj,Model_1,2017,26824,Petrol,Manual,1,Indore,4,20000
+auto,Bajaj,Model_5,2013,45866,CNG,Manual,2,Indore,2,20000
+car,Maruti,Model_5,2020,109067,Diesel,Automatic,3,Bhopal,4,541866
+bike,Honda,Model_1,2022,107691,Diesel,Automatic,3,Ranchi,4,20000
+bike,Honda,Model_1,2023,54949,Petrol,Automatic,3,Bhopal,2,20000
+auto,Bajaj,Model_1,2016,149069,Diesel,Automatic,2,Indore,1,20000
+car,Maruti,Model_5,2022,112353,CNG,Manual,2,Ranchi,5,585294
+bike,Honda,Model_4,2017,101999,Petrol,Automatic,2,Bhopal,4,20000
+truck,Tata,Model_2,2020,74880,Diesel,Automatic,1,Bhopal,3,300240
+auto,Bajaj,Model_1,2023,133074,CNG,Manual,1,Raipur,3,20000
+bike,TVS,Model_3,2016,62826,CNG,Manual,3,Raipur,5,20000
+truck,Ashok Leyland,Model_4,2016,125060,CNG,Automatic,3,Raipur,1,99880
+truck,Ashok Leyland,Model_5,2023,39933,CNG,Manual,3,Indore,3,430134
+auto,Bajaj,Model_5,2021,81832,Petrol,Automatic,3,Indore,5,20000
+truck,Tata,Model_5,2015,105910,Diesel,Manual,1,Indore,5,158180
+bike,TVS,Model_2,2010,58907,CNG,Manual,2,Bhopal,4,20000
+car,Honda,Model_4,2010,58821,Diesel,Manual,3,Raipur,1,412358
+auto,Bajaj,Model_1,2023,36161,CNG,Automatic,2,Raipur,4,97678
+car,Tata,Model_4,2018,86420,CNG,Automatic,3,Raipur,3,537160
+truck,Tata,Model_2,2018,84235,CNG,Manual,1,Raipur,5,261530
+auto,Bajaj,Model_2,2019,58155,Diesel,Manual,2,Bhopal,2,20000
+truck,Ashok Leyland,Model_1,2018,118546,Diesel,Manual,3,Ranchi,5,192908
+bike,TVS,Model_2,2013,34692,Petrol,Manual,2,Ranchi,3,20000
+auto,Bajaj,Model_3,2022,77001,Petrol,Automatic,3,Bhubaneswar,3,20000
+car,Honda,Model_4,2017,64417,Diesel,Automatic,1,Bhubaneswar,3,561166
+car,Tata,Model_4,2023,118835,Diesel,Automatic,1,Bhopal,3,572330
+bike,Yamaha,Model_3,2014,139209,CNG,Automatic,2,Bhopal,5,20000
+truck,Ashok Leyland,Model_2,2017,20088,CNG,Manual,2,Bhubaneswar,4,359824
+bike,Hero,Model_2,2010,44321,Petrol,Automatic,3,Bhubaneswar,4,20000
+auto,TVS,Model_3,2021,26943,Petrol,Automatic,3,Raipur,2,56114
+truck,Ashok Leyland,Model_4,2019,39003,CNG,Manual,3,Bhopal,2,341994
+bike,TVS,Model_5,2020,25780,CNG,Manual,3,Indore,1,20000
+auto,Bajaj,Model_3,2013,28853,Petrol,Manual,1,Indore,4,20000
+car,Hyundai,Model_4,2015,44310,CNG,Manual,1,Bhubaneswar,3,561380
+auto,TVS,Model_2,2012,12829,CNG,Automatic,1,Raipur,3,20000
+car,Honda,Model_4,2013,46770,Petrol,Automatic,2,Raipur,5,536460
+truck,Tata,Model_3,2019,66526,Petrol,Manual,3,Ranchi,4,306948
+car,Maruti,Model_5,2017,51166,Petrol,Automatic,1,Ranchi,5,607668
+bike,Honda,Model_1,2020,5033,Petrol,Automatic,3,Indore,3,20000
+auto,TVS,Model_3,2019,24751,CNG,Automatic,3,Raipur,1,20000
+bike,Hero,Model_2,2020,33094,CNG,Manual,2,Indore,5,20000
+bike,TVS,Model_2,2017,89831,Petrol,Automatic,2,Bhopal,3,20000
+car,Hyundai,Model_3,2022,71987,Petrol,Manual,3,Ranchi,1,626026
+truck,Tata,Model_2,2023,120002,Diesel,Automatic,1,Raipur,2,259996
+auto,TVS,Model_2,2021,138929,CNG,Manual,1,Bhubaneswar,2,20000
+car,Hyundai,Model_4,2022,22325,Diesel,Automatic,2,Indore,1,725350
+auto,TVS,Model_1,2011,116369,Diesel,Automatic,3,Raipur,3,20000
+auto,Bajaj,Model_3,2011,31213,Diesel,Automatic,1,Ranchi,3,20000
+car,Honda,Model_2,2017,134106,Petrol,Manual,1,Raipur,2,411788
+car,Tata,Model_5,2010,85995,Petrol,Automatic,1,Bhopal,2,368010
+auto,Bajaj,Model_5,2011,72730,CNG,Manual,2,Bhopal,3,20000
+bike,Yamaha,Model_3,2023,58750,CNG,Automatic,3,Raipur,1,20000
+auto,TVS,Model_3,2019,93986,CNG,Automatic,1,Raipur,3,20000
+bike,Honda,Model_2,2020,57513,CNG,Manual,2,Bhopal,1,20000
+car,Hyundai,Model_3,2013,119561,Petrol,Automatic,3,Bhopal,2,360878
+truck,Tata,Model_3,2010,87395,Diesel,Manual,2,Bhopal,1,55210
+auto,Bajaj,Model_3,2011,14885,Diesel,Manual,1,Bhubaneswar,1,20000
+auto,Bajaj,Model_5,2023,56482,Diesel,Manual,1,Bhubaneswar,5,67036
+truck,Tata,Model_3,2019,66362,Petrol,Automatic,2,Bhopal,5,317276
+car,Tata,Model_1,2015,73505,Petrol,Automatic,1,Raipur,4,512990
+truck,Tata,Model_1,2015,10029,Diesel,Automatic,1,Raipur,4,339942
+truck,Tata,Model_3,2022,142301,Petrol,Manual,3,Ranchi,3,205398
+truck,Ashok Leyland,Model_3,2013,124562,Diesel,Manual,1,Bhubaneswar,5,80876
+car,Tata,Model_3,2019,51303,CNG,Manual,3,Ranchi,2,617394
+auto,TVS,Model_3,2011,16634,Petrol,Manual,1,Ranchi,4,20000
+truck,Tata,Model_2,2021,66518,Diesel,Automatic,1,Indore,1,316964
+truck,Ashok Leyland,Model_4,2017,83437,Petrol,Automatic,1,Indore,3,223126
+truck,Ashok Leyland,Model_3,2018,100498,Diesel,Automatic,1,Bhopal,5,229004
+auto,Bajaj,Model_2,2020,83704,CNG,Manual,1,Indore,3,20000
+car,Maruti,Model_5,2015,9583,Petrol,Manual,3,Indore,1,610834
+car,Honda,Model_3,2021,38766,Petrol,Automatic,2,Indore,3,692468
+bike,TVS,Model_1,2018,107452,Petrol,Automatic,1,Indore,5,20000
+car,Tata,Model_4,2011,40578,CNG,Manual,2,Ranchi,1,468844
+auto,TVS,Model_4,2010,51500,CNG,Manual,2,Bhopal,3,20000
+car,Hyundai,Model_1,2020,62426,Diesel,Manual,2,Bhopal,2,615148
+car,Maruti,Model_3,2023,33877,CNG,Automatic,1,Ranchi,4,752246
+bike,TVS,Model_3,2023,66779,CNG,Automatic,2,Raipur,3,20000
+truck,Ashok Leyland,Model_4,2016,97626,CNG,Automatic,3,Ranchi,1,154748
+bike,Hero,Model_5,2023,132514,Petrol,Automatic,3,Raipur,3,20000
+car,Maruti,Model_1,2012,101555,CNG,Automatic,2,Bhopal,5,406890
+car,Tata,Model_4,2010,98012,CNG,Manual,1,Indore,4,363976
+car,Tata,Model_2,2019,78296,Petrol,Automatic,1,Bhubaneswar,1,553408
+car,Hyundai,Model_5,2014,100971,Petrol,Manual,2,Raipur,1,408058
+truck,Ashok Leyland,Model_4,2020,18260,Petrol,Manual,2,Bhubaneswar,2,403480
+car,Tata,Model_2,2023,28112,Diesel,Manual,3,Bhopal,4,763776
+bike,TVS,Model_2,2013,11241,Diesel,Automatic,2,Bhubaneswar,1,20000
+car,Hyundai,Model_3,2019,26387,CNG,Manual,1,Indore,2,667226
+car,Honda,Model_4,2018,100914,Petrol,Automatic,1,Ranchi,1,488172
+truck,Ashok Leyland,Model_4,2023,67220,CNG,Automatic,2,Bhopal,4,385560
+bike,Hero,Model_4,2019,38775,Petrol,Manual,3,Raipur,2,20000
+auto,Bajaj,Model_4,2013,30292,Diesel,Automatic,2,Bhopal,5,20000
+auto,TVS,Model_2,2022,98544,Diesel,Automatic,2,Bhubaneswar,1,20000
+auto,TVS,Model_2,2012,48342,Petrol,Manual,3,Bhubaneswar,4,20000
+car,Honda,Model_4,2023,135568,Petrol,Automatic,2,Bhopal,2,528864
+auto,TVS,Model_2,2019,135284,CNG,Automatic,2,Bhubaneswar,3,20000
+auto,Bajaj,Model_3,2013,129047,Diesel,Manual,2,Ranchi,1,20000
+truck,Ashok Leyland,Model_5,2023,35860,CNG,Automatic,2,Indore,5,458280
+auto,TVS,Model_5,2022,137919,Diesel,Manual,2,Indore,4,20000
+bike,Hero,Model_3,2013,29819,Petrol,Automatic,1,Raipur,2,20000
+auto,TVS,Model_5,2020,78608,CNG,Automatic,2,Raipur,3,20000
+auto,TVS,Model_4,2022,58537,CNG,Manual,3,Bhopal,1,20000
+bike,Honda,Model_2,2010,113075,CNG,Automatic,1,Bhopal,4,20000
+car,Hyundai,Model_3,2016,13329,Petrol,Manual,2,Raipur,3,643342
+auto,Bajaj,Model_1,2015,116808,Diesel,Manual,2,Indore,1,20000
+auto,TVS,Model_1,2013,74340,CNG,Automatic,1,Bhubaneswar,4,20000
+bike,TVS,Model_4,2012,113622,Petrol,Automatic,2,Ranchi,3,20000
+bike,TVS,Model_2,2013,95819,Petrol,Manual,1,Bhubaneswar,3,20000
+truck,Ashok Leyland,Model_3,2018,126403,Petrol,Automatic,2,Bhopal,2,147194
+car,Tata,Model_3,2017,25649,Diesel,Manual,1,Bhubaneswar,4,648702
+bike,Yamaha,Model_1,2020,48834,Diesel,Automatic,3,Ranchi,4,20000
+truck,Ashok Leyland,Model_5,2022,27794,Diesel,Automatic,1,Bhopal,1,414412
+car,Hyundai,Model_1,2015,40793,Petrol,Manual,1,Raipur,5,588414
+car,Hyundai,Model_4,2020,89514,Diesel,Manual,1,Ranchi,5,590972
+auto,Bajaj,Model_2,2017,139062,Diesel,Automatic,3,Indore,4,20000
+bike,Yamaha,Model_2,2017,113596,Petrol,Automatic,3,Indore,2,20000
+truck,Ashok Leyland,Model_2,2022,108021,Petrol,Automatic,3,Ranchi,3,273958
+auto,Bajaj,Model_4,2011,81006,Diesel,Manual,1,Raipur,3,20000
+bike,Yamaha,Model_3,2023,144407,Diesel,Manual,1,Bhubaneswar,4,20000
+car,Maruti,Model_4,2010,5762,Diesel,Manual,2,Raipur,5,558476
+car,Honda,Model_1,2022,148469,CNG,Manual,3,Ranchi,1,473062
+bike,Hero,Model_4,2010,40525,Petrol,Manual,3,Bhopal,2,20000
+car,Maruti,Model_3,2019,116707,CNG,Manual,1,Ranchi,1,476586
+car,Honda,Model_3,2012,91687,Diesel,Manual,1,Bhubaneswar,1,386626
+auto,TVS,Model_4,2013,95160,CNG,Automatic,2,Bhopal,4,20000
+bike,Honda,Model_2,2019,22170,Petrol,Manual,3,Ranchi,1,20000
+car,Honda,Model_1,2022,129485,CNG,Manual,1,Raipur,1,511030
+truck,Tata,Model_1,2017,66812,Diesel,Manual,1,Ranchi,5,276376
+car,Honda,Model_5,2013,83063,CNG,Manual,2,Raipur,1,423874
+bike,Honda,Model_3,2012,28936,CNG,Automatic,2,Ranchi,1,20000
+auto,TVS,Model_1,2014,74724,Diesel,Manual,3,Ranchi,5,20000
+auto,Bajaj,Model_3,2010,92579,CNG,Automatic,3,Raipur,2,20000
+bike,TVS,Model_4,2023,135401,Diesel,Automatic,2,Indore,5,20000
+car,Maruti,Model_4,2018,69614,CNG,Manual,2,Indore,2,560772
+auto,Bajaj,Model_4,2011,7609,CNG,Manual,3,Bhopal,4,20000
+bike,TVS,Model_1,2010,27347,Diesel,Automatic,3,Raipur,5,20000
+auto,Bajaj,Model_1,2022,27632,Petrol,Automatic,3,Bhubaneswar,5,104736
+bike,Yamaha,Model_3,2017,55592,Petrol,Automatic,1,Indore,5,20000
+car,Maruti,Model_4,2010,16995,Petrol,Manual,2,Indore,3,516010
+auto,Bajaj,Model_3,2015,50869,CNG,Automatic,2,Bhopal,3,20000
+bike,Hero,Model_2,2020,56149,CNG,Manual,3,Ranchi,3,20000
+car,Tata,Model_2,2014,127572,CNG,Manual,1,Bhubaneswar,4,384856
+car,Tata,Model_3,2010,24301,Petrol,Manual,2,Bhopal,1,481398
+truck,Ashok Leyland,Model_2,2020,33427,CNG,Manual,1,Indore,5,403146
+auto,TVS,Model_3,2017,123445,CNG,Manual,2,Bhubaneswar,1,20000
+bike,Hero,Model_5,2018,81098,Petrol,Automatic,1,Raipur,1,20000
+car,Tata,Model_5,2019,111956,Petrol,Automatic,3,Bhubaneswar,4,516088
+auto,TVS,Model_1,2019,111095,Diesel,Automatic,3,Ranchi,1,20000
+car,Hyundai,Model_1,2010,124518,Diesel,Manual,1,Raipur,3,300964
+car,Honda,Model_1,2018,34049,Diesel,Manual,1,Bhopal,3,641902
+bike,Hero,Model_2,2021,135550,Diesel,Manual,1,Bhubaneswar,5,20000
+truck,Tata,Model_3,2018,71458,Diesel,Automatic,1,Indore,2,257084
+auto,Bajaj,Model_3,2019,39712,Diesel,Manual,1,Indore,5,20576
+bike,Yamaha,Model_4,2012,68584,CNG,Automatic,3,Ranchi,3,20000
+car,Honda,Model_2,2011,61439,Petrol,Automatic,3,Bhubaneswar,3,447122
+car,Tata,Model_1,2012,73075,Petrol,Automatic,3,Bhopal,5,463850
+car,Honda,Model_3,2023,66919,CNG,Automatic,3,Bhopal,1,656162
+auto,Bajaj,Model_5,2020,134383,Petrol,Automatic,1,Ranchi,3,20000
+auto,TVS,Model_2,2011,145026,Diesel,Manual,3,Raipur,1,20000
+car,Maruti,Model_3,2022,24997,Diesel,Manual,3,Raipur,5,760006
+auto,TVS,Model_4,2015,72739,Diesel,Manual,1,Bhubaneswar,2,20000
+bike,TVS,Model_3,2016,19912,CNG,Manual,2,Raipur,4,20000
+auto,TVS,Model_2,2021,11830,Diesel,Manual,3,Ranchi,3,96340
+car,Honda,Model_4,2022,34426,CNG,Manual,1,Indore,3,721148
+bike,TVS,Model_5,2012,71405,Petrol,Manual,3,Bhopal,5,20000
+auto,Bajaj,Model_3,2018,29559,Petrol,Manual,2,Ranchi,4,20000
+truck,Tata,Model_4,2015,22577,Diesel,Manual,1,Ranchi,4,314846
+auto,TVS,Model_2,2019,133822,Diesel,Automatic,1,Indore,3,20000
+auto,TVS,Model_5,2014,46632,Petrol,Manual,1,Ranchi,3,20000
+bike,TVS,Model_4,2018,137627,Diesel,Manual,2,Indore,1,20000
+car,Hyundai,Model_2,2019,92398,Diesel,Automatic,2,Bhubaneswar,4,555204
+car,Hyundai,Model_1,2010,142866,CNG,Automatic,1,Ranchi,1,244268
+truck,Ashok Leyland,Model_4,2017,60737,Petrol,Automatic,1,Bhubaneswar,3,268526
+bike,Hero,Model_1,2022,108054,Petrol,Manual,2,Indore,2,20000
+truck,Ashok Leyland,Model_2,2017,109439,Petrol,Manual,1,Indore,4,181122
+auto,Bajaj,Model_3,2018,54531,Diesel,Manual,1,Raipur,2,20000
+truck,Tata,Model_3,2017,59586,CNG,Manual,1,Raipur,5,290828
+auto,Bajaj,Model_5,2010,78683,CNG,Automatic,2,Raipur,3,20000
+bike,Yamaha,Model_5,2022,88600,CNG,Automatic,3,Indore,1,20000
+auto,Bajaj,Model_4,2010,107039,Diesel,Automatic,2,Bhubaneswar,2,20000
+bike,Honda,Model_5,2011,122573,Petrol,Manual,3,Bhopal,5,20000
+auto,TVS,Model_4,2018,68144,Petrol,Manual,2,Raipur,4,20000
+auto,TVS,Model_5,2020,51601,CNG,Manual,1,Ranchi,2,20000
+truck,Ashok Leyland,Model_3,2015,53009,Petrol,Manual,3,Bhubaneswar,4,253982
+car,Tata,Model_1,2010,39575,Diesel,Automatic,1,Bhubaneswar,5,490850
+car,Honda,Model_2,2011,99328,CNG,Manual,1,Bhopal,1,351344
+bike,Yamaha,Model_3,2013,90966,Diesel,Automatic,2,Indore,2,20000
+truck,Ashok Leyland,Model_1,2017,80428,Diesel,Automatic,3,Indore,5,249144
+car,Maruti,Model_2,2013,14573,Diesel,Automatic,3,Bhubaneswar,1,560854
+bike,TVS,Model_5,2012,105419,Petrol,Manual,2,Raipur,3,20000
+truck,Ashok Leyland,Model_4,2015,9006,Petrol,Automatic,3,Bhopal,1,311988
+car,Maruti,Model_4,2017,11679,CNG,Automatic,1,Indore,5,686642
+truck,Tata,Model_5,2015,55183,CNG,Manual,3,Indore,4,249634
+auto,TVS,Model_3,2021,45029,Diesel,Manual,3,Ranchi,5,49942
+auto,Bajaj,Model_5,2013,86801,Petrol,Manual,3,Raipur,1,20000
+car,Maruti,Model_5,2018,50953,CNG,Automatic,3,Ranchi,5,628094
+car,Honda,Model_1,2014,50280,Petrol,Automatic,3,Ranchi,3,529440
+truck,Ashok Leyland,Model_4,2018,58946,Petrol,Manual,2,Bhubaneswar,1,272108
+bike,TVS,Model_5,2011,125499,Petrol,Manual,3,Ranchi,5,20000
+auto,TVS,Model_3,2014,27021,Diesel,Manual,1,Bhopal,2,20000
+truck,Ashok Leyland,Model_5,2021,23976,Diesel,Automatic,2,Indore,1,402048
+car,Maruti,Model_4,2019,72438,Diesel,Automatic,3,Indore,5,605124
+auto,Bajaj,Model_4,2017,94123,CNG,Manual,1,Raipur,5,20000
+bike,Yamaha,Model_1,2011,31473,CNG,Automatic,3,Ranchi,4,20000
+bike,Yamaha,Model_5,2011,94212,Diesel,Automatic,1,Raipur,1,20000
+bike,Yamaha,Model_5,2011,36996,Petrol,Automatic,2,Bhubaneswar,3,20000
+truck,Tata,Model_3,2020,27704,Diesel,Automatic,3,Bhopal,1,374592
+car,Hyundai,Model_2,2019,121973,Petrol,Manual,2,Bhubaneswar,3,486054
+auto,TVS,Model_2,2021,52163,Petrol,Automatic,2,Indore,1,20000
+bike,Honda,Model_3,2011,85110,CNG,Manual,3,Bhubaneswar,5,20000
+bike,Hero,Model_2,2020,107611,Petrol,Automatic,2,Bhopal,4,20000
+car,Tata,Model_3,2018,133176,Diesel,Automatic,2,Raipur,2,433648
+car,Honda,Model_1,2015,38382,CNG,Manual,2,Raipur,3,573236
+auto,TVS,Model_3,2019,19857,CNG,Automatic,3,Indore,4,50286
+bike,Yamaha,Model_2,2010,22587,CNG,Automatic,3,Raipur,2,20000
+car,Tata,Model_4,2023,57391,Petrol,Automatic,3,Indore,2,685218
+car,Hyundai,Model_4,2021,145080,Diesel,Manual,1,Raipur,3,479840
+car,Tata,Model_2,2020,48647,CNG,Automatic,3,Raipur,5,672706
+car,Maruti,Model_2,2014,10378,Diesel,Manual,3,Bhopal,1,589244
+car,Hyundai,Model_2,2014,19227,Diesel,Automatic,2,Ranchi,3,591546
+bike,Hero,Model_4,2018,100714,CNG,Automatic,2,Bhopal,4,20000
+bike,Hero,Model_4,2017,10788,Diesel,Automatic,2,Indore,3,20000
+car,Maruti,Model_5,2019,143716,CNG,Automatic,1,Raipur,2,432568
+truck,Tata,Model_5,2017,9404,CNG,Manual,3,Indore,5,391192
+car,Tata,Model_2,2010,123099,Petrol,Automatic,2,Bhopal,1,283802
+car,Hyundai,Model_3,2011,71050,CNG,Manual,2,Indore,2,417900
+truck,Tata,Model_1,2013,7037,Petrol,Manual,1,Bhopal,3,295926
+car,Maruti,Model_2,2018,16259,Petrol,Automatic,1,Ranchi,5,697482
+car,Honda,Model_5,2011,29455,CNG,Manual,1,Raipur,1,491090
+truck,Tata,Model_3,2019,20168,Diesel,Manual,2,Indore,5,409664
+bike,Hero,Model_1,2011,83823,Diesel,Automatic,3,Ranchi,4,20000
+car,Tata,Model_4,2016,23226,CNG,Manual,1,Bhopal,5,643548
+bike,TVS,Model_1,2020,14450,Diesel,Manual,1,Bhubaneswar,1,20000
+bike,Hero,Model_2,2011,137082,Petrol,Automatic,1,Indore,4,20000
+auto,Bajaj,Model_5,2011,23209,Diesel,Automatic,1,Indore,4,20000
+auto,TVS,Model_2,2018,30486,Diesel,Automatic,3,Ranchi,2,20000
+truck,Tata,Model_1,2011,49402,Petrol,Automatic,2,Indore,5,191196
+truck,Tata,Model_3,2015,104563,CNG,Automatic,1,Bhubaneswar,3,140874
+auto,TVS,Model_3,2019,25749,Diesel,Manual,1,Bhopal,2,20000
+auto,Bajaj,Model_3,2011,82702,CNG,Manual,3,Bhubaneswar,2,20000
+car,Maruti,Model_2,2010,93000,Petrol,Manual,3,Ranchi,3,364000
+truck,Ashok Leyland,Model_4,2013,116204,Diesel,Manual,2,Indore,5,97592
+bike,Hero,Model_2,2020,42646,Diesel,Automatic,3,Bhopal,5,20000
+truck,Tata,Model_2,2023,89848,Diesel,Manual,1,Raipur,3,330304
+bike,Hero,Model_3,2021,57312,CNG,Automatic,2,Ranchi,4,20000
+car,Honda,Model_5,2016,33542,Petrol,Automatic,3,Bhubaneswar,4,612916
+auto,TVS,Model_4,2013,91054,Diesel,Automatic,2,Bhopal,5,20000
+bike,Yamaha,Model_2,2013,71444,Petrol,Automatic,1,Bhubaneswar,5,20000
+car,Tata,Model_2,2015,31633,Petrol,Manual,2,Bhopal,5,606734
+truck,Ashok Leyland,Model_1,2022,64166,CNG,Automatic,3,Indore,1,341668
+car,Tata,Model_4,2015,35221,CNG,Automatic,1,Bhopal,4,589558
+bike,TVS,Model_2,2011,79861,Diesel,Manual,2,Ranchi,5,20000
+bike,Honda,Model_2,2015,50578,Petrol,Manual,2,Raipur,5,20000
+bike,Yamaha,Model_5,2016,31530,Diesel,Automatic,2,Indore,5,20000
+car,Tata,Model_1,2014,49854,Diesel,Automatic,3,Ranchi,3,530292
+truck,Tata,Model_5,2019,115562,Petrol,Manual,3,Bhopal,3,198876
+bike,Honda,Model_3,2017,133713,Diesel,Manual,3,Bhubaneswar,3,20000
+bike,Yamaha,Model_2,2019,65693,Diesel,Automatic,1,Raipur,5,20000
+car,Maruti,Model_2,2021,14867,CNG,Automatic,1,Bhopal,2,730266
+car,Hyundai,Model_4,2010,117609,CNG,Manual,3,Indore,3,314782
+car,Honda,Model_5,2015,94820,CNG,Automatic,1,Bhopal,1,440360
+car,Hyundai,Model_3,2012,90788,CNG,Manual,3,Bhubaneswar,4,418424
+auto,Bajaj,Model_1,2022,29551,Diesel,Automatic,1,Bhubaneswar,1,60898
+truck,Tata,Model_3,2014,121989,Petrol,Automatic,3,Raipur,4,96022
+bike,TVS,Model_2,2016,80815,CNG,Manual,2,Bhopal,3,20000
+truck,Ashok Leyland,Model_1,2019,66912,CNG,Automatic,1,Bhopal,2,286176
+auto,Bajaj,Model_3,2013,112184,CNG,Manual,1,Indore,2,20000
+truck,Ashok Leyland,Model_3,2023,144773,CNG,Manual,3,Ranchi,4,230454
+truck,Tata,Model_5,2017,82846,Petrol,Manual,2,Indore,5,244308
+bike,Honda,Model_5,2021,73826,Petrol,Automatic,2,Bhopal,4,20000
+auto,TVS,Model_1,2016,140228,Diesel,Automatic,1,Bhubaneswar,1,20000
+truck,Ashok Leyland,Model_5,2019,59287,Petrol,Automatic,1,Bhopal,2,301426
+bike,Hero,Model_1,2020,20771,Petrol,Automatic,3,Bhubaneswar,1,20000
+auto,Bajaj,Model_5,2013,78098,Petrol,Manual,2,Ranchi,5,20000
+car,Maruti,Model_3,2022,113100,Petrol,Manual,2,Bhubaneswar,5,583800
+auto,Bajaj,Model_1,2017,89942,Diesel,Automatic,1,Raipur,3,20000
+truck,Ashok Leyland,Model_1,2014,96728,Petrol,Manual,2,Raipur,3,136544
+auto,Bajaj,Model_5,2013,83727,CNG,Manual,3,Raipur,3,20000
+bike,TVS,Model_4,2023,31094,CNG,Manual,2,Raipur,2,20000
+bike,Honda,Model_4,2011,49494,CNG,Manual,1,Bhubaneswar,3,20000
+auto,Bajaj,Model_1,2023,76320,CNG,Automatic,3,Bhubaneswar,2,20000
+auto,Bajaj,Model_2,2021,49665,Petrol,Manual,2,Indore,1,20000
+car,Maruti,Model_1,2015,55660,Petrol,Automatic,1,Bhopal,4,548680
+car,Hyundai,Model_4,2015,56768,Petrol,Automatic,3,Indore,1,516464
+truck,Ashok Leyland,Model_5,2011,126541,CNG,Automatic,3,Raipur,1,20000
+bike,Yamaha,Model_5,2022,130071,Petrol,Manual,2,Raipur,3,20000
+car,Hyundai,Model_4,2017,145156,Diesel,Automatic,1,Bhubaneswar,1,379688
+car,Honda,Model_2,2015,71623,CNG,Manual,3,Bhopal,4,516754
+auto,TVS,Model_4,2016,42848,Petrol,Automatic,2,Bhopal,1,20000
+bike,Yamaha,Model_5,2021,121320,CNG,Automatic,3,Indore,5,20000
+truck,Tata,Model_4,2013,82430,Petrol,Automatic,1,Bhubaneswar,3,145140
+bike,Yamaha,Model_3,2018,39709,Petrol,Manual,3,Indore,1,20000
+car,Honda,Model_3,2011,53329,CNG,Manual,3,Indore,4,473342
+truck,Ashok Leyland,Model_2,2010,76983,Petrol,Manual,2,Bhubaneswar,2,86034
+car,Honda,Model_2,2015,42453,CNG,Manual,1,Indore,4,575094
+auto,Bajaj,Model_1,2012,111856,CNG,Automatic,1,Ranchi,1,20000
+bike,Yamaha,Model_3,2013,11253,CNG,Automatic,2,Raipur,3,20000
+auto,TVS,Model_4,2020,97380,Diesel,Manual,3,Bhopal,1,20000
+truck,Tata,Model_3,2015,96065,Petrol,Manual,3,Raipur,4,167870
+truck,Tata,Model_4,2020,73557,CNG,Manual,3,Bhopal,2,292886
+bike,Hero,Model_2,2016,34700,Petrol,Manual,2,Raipur,1,20000
+truck,Ashok Leyland,Model_1,2018,83880,Petrol,Manual,1,Bhopal,2,232240
+bike,Hero,Model_4,2019,47701,Diesel,Automatic,1,Indore,4,20000
+truck,Tata,Model_4,2010,77327,Diesel,Automatic,3,Ranchi,3,95346
+bike,Yamaha,Model_3,2010,27518,CNG,Manual,2,Bhubaneswar,4,20000
+car,Tata,Model_3,2011,92577,Petrol,Automatic,2,Ranchi,4,394846
+bike,Hero,Model_1,2021,82575,Petrol,Automatic,2,Indore,3,20000
+car,Hyundai,Model_1,2018,119350,Petrol,Automatic,1,Bhopal,3,471300
+truck,Ashok Leyland,Model_5,2017,118635,CNG,Automatic,2,Ranchi,1,132730
+bike,Honda,Model_4,2011,71226,Petrol,Automatic,1,Bhubaneswar,3,20000
+car,Maruti,Model_2,2010,84374,CNG,Automatic,2,Raipur,3,381252
+auto,TVS,Model_1,2012,125335,Diesel,Manual,2,Bhubaneswar,2,20000
+bike,TVS,Model_4,2023,80491,Diesel,Automatic,3,Bhopal,2,20000
+truck,Ashok Leyland,Model_2,2022,40129,CNG,Automatic,2,Raipur,2,399742
+bike,TVS,Model_2,2020,119856,CNG,Manual,1,Bhopal,4,20000
+auto,TVS,Model_3,2015,32284,Petrol,Manual,2,Bhubaneswar,1,20000
+truck,Ashok Leyland,Model_1,2010,62687,Petrol,Automatic,2,Raipur,4,134626
+auto,TVS,Model_5,2018,128333,Petrol,Manual,3,Raipur,3,20000
+bike,Yamaha,Model_4,2014,117772,Petrol,Manual,3,Indore,3,20000
+car,Tata,Model_3,2014,132315,Petrol,Automatic,2,Bhubaneswar,3,365370
+car,Hyundai,Model_4,2015,95445,CNG,Automatic,3,Raipur,3,459110
+truck,Ashok Leyland,Model_1,2020,144696,Petrol,Manual,3,Indore,2,150608
+car,Maruti,Model_3,2022,29427,Diesel,Automatic,3,Ranchi,5,751146
+car,Tata,Model_5,2016,118547,Diesel,Manual,3,Raipur,2,422906
+bike,Yamaha,Model_2,2020,66221,Diesel,Automatic,1,Ranchi,1,20000
+auto,TVS,Model_2,2023,50308,Diesel,Automatic,2,Bhopal,5,79384
+auto,Bajaj,Model_1,2019,54102,CNG,Automatic,3,Bhopal,5,20000
+bike,Hero,Model_2,2021,148602,Diesel,Automatic,1,Bhopal,2,20000
+truck,Tata,Model_1,2016,83879,CNG,Manual,1,Indore,3,202242
+truck,Ashok Leyland,Model_4,2011,139960,Diesel,Manual,2,Ranchi,5,20000
+auto,Bajaj,Model_5,2017,21023,Petrol,Automatic,2,Bhopal,2,20000
+car,Hyundai,Model_1,2010,76139,Diesel,Automatic,2,Raipur,3,397722
+bike,Hero,Model_3,2014,117862,Diesel,Automatic,2,Bhubaneswar,5,20000
+auto,Bajaj,Model_2,2013,72585,Diesel,Manual,1,Bhubaneswar,1,20000
+car,Maruti,Model_4,2016,36096,Diesel,Automatic,1,Indore,3,597808
+truck,Ashok Leyland,Model_2,2018,16474,Petrol,Manual,1,Ranchi,5,397052
+truck,Tata,Model_5,2010,66000,CNG,Automatic,3,Bhubaneswar,5,138000
+bike,TVS,Model_1,2019,118184,Diesel,Manual,2,Indore,1,20000
+truck,Tata,Model_4,2019,146551,CNG,Manual,2,Raipur,4,146898
+auto,TVS,Model_1,2010,28825,Diesel,Manual,2,Raipur,5,20000
+auto,TVS,Model_4,2010,23374,CNG,Manual,1,Indore,1,20000
+bike,TVS,Model_2,2011,101425,CNG,Automatic,3,Indore,2,20000
+truck,Ashok Leyland,Model_4,2020,54213,Petrol,Manual,2,Raipur,3,341574
+truck,Ashok Leyland,Model_1,2010,102721,Diesel,Automatic,2,Indore,2,34558
+auto,TVS,Model_5,2012,18219,Diesel,Automatic,3,Raipur,4,20000
+bike,Yamaha,Model_3,2018,108265,Diesel,Automatic,3,Ranchi,1,20000
+truck,Ashok Leyland,Model_2,2010,35620,Petrol,Manual,1,Bhubaneswar,2,168760
+auto,Bajaj,Model_2,2022,23462,Petrol,Automatic,3,Ranchi,5,113076
+truck,Ashok Leyland,Model_3,2016,136298,CNG,Manual,3,Indore,2,87404
+truck,Tata,Model_5,2013,41145,Diesel,Manual,1,Ranchi,3,227710
+car,Honda,Model_4,2021,85304,Petrol,Automatic,2,Ranchi,1,579392
+truck,Ashok Leyland,Model_4,2021,71342,Diesel,Manual,3,Bhopal,1,307316
+car,Tata,Model_2,2014,36596,Diesel,Automatic,3,Indore,3,556808
+truck,Tata,Model_2,2013,61255,Petrol,Manual,1,Indore,5,207490
+auto,Bajaj,Model_3,2011,115522,Petrol,Manual,3,Bhubaneswar,3,20000
+bike,Hero,Model_4,2023,30884,Petrol,Automatic,1,Bhopal,4,28232
+truck,Tata,Model_3,2013,74508,Diesel,Manual,3,Bhubaneswar,1,140984
+car,Tata,Model_5,2012,64085,CNG,Automatic,1,Indore,2,451830
+auto,Bajaj,Model_2,2014,78964,Petrol,Manual,3,Bhopal,3,20000
+auto,TVS,Model_4,2023,27421,Petrol,Automatic,3,Ranchi,1,85158
+bike,Hero,Model_1,2017,149836,CNG,Manual,3,Raipur,5,20000
+car,Tata,Model_2,2011,107899,CNG,Manual,3,Raipur,5,374202
+auto,Bajaj,Model_5,2021,50997,CNG,Manual,3,Ranchi,4,28006
+auto,TVS,Model_5,2023,5312,Diesel,Manual,1,Ranchi,3,149376
+bike,TVS,Model_3,2014,31305,Petrol,Manual,2,Indore,4,20000
+bike,TVS,Model_3,2021,43864,Diesel,Manual,3,Bhubaneswar,1,20000
+auto,TVS,Model_2,2019,134814,CNG,Manual,3,Raipur,3,20000
+bike,Honda,Model_4,2011,58415,Diesel,Automatic,1,Indore,2,20000
+car,Honda,Model_2,2012,17345,CNG,Automatic,3,Ranchi,3,555310
+auto,TVS,Model_1,2012,116741,CNG,Automatic,2,Indore,5,20000
+truck,Ashok Leyland,Model_1,2012,100235,Petrol,Automatic,2,Raipur,1,69530
+auto,TVS,Model_1,2013,127818,CNG,Automatic,2,Bhubaneswar,3,20000
+auto,TVS,Model_5,2011,47048,CNG,Automatic,2,Raipur,5,20000
+auto,TVS,Model_3,2019,62501,Petrol,Manual,3,Ranchi,2,20000
+car,Tata,Model_3,2022,48550,CNG,Manual,3,Indore,1,672900
+truck,Ashok Leyland,Model_3,2021,148805,CNG,Manual,3,Bhopal,2,162390
+auto,Bajaj,Model_2,2015,131228,CNG,Manual,2,Bhopal,5,20000
+auto,Bajaj,Model_5,2018,106747,Petrol,Automatic,2,Indore,4,20000
+truck,Tata,Model_4,2019,7858,Diesel,Automatic,1,Raipur,2,404284
+auto,TVS,Model_3,2017,122033,CNG,Automatic,1,Bhubaneswar,1,20000
+car,Tata,Model_3,2014,73452,Diesel,Manual,2,Ranchi,3,483096
+auto,TVS,Model_3,2019,61770,Diesel,Manual,2,Bhubaneswar,4,20000
+car,Maruti,Model_1,2023,82384,Petrol,Manual,2,Ranchi,2,635232
+truck,Tata,Model_4,2014,27921,CNG,Manual,1,Raipur,1,254158
+truck,Ashok Leyland,Model_4,2012,62473,Diesel,Manual,3,Bhopal,4,175054
+truck,Tata,Model_4,2014,86439,CNG,Manual,1,Bhopal,3,157122
+truck,Tata,Model_4,2012,137105,CNG,Manual,1,Ranchi,3,20000
+car,Maruti,Model_1,2018,23316,CNG,Manual,3,Indore,1,643368
+bike,TVS,Model_3,2010,96999,CNG,Manual,1,Indore,2,20000
+truck,Tata,Model_5,2016,81047,Diesel,Manual,3,Indore,1,187906
+auto,Bajaj,Model_1,2010,15640,Petrol,Manual,1,Raipur,3,20000
+truck,Tata,Model_5,2010,108936,Diesel,Automatic,3,Raipur,2,22128
+bike,Hero,Model_5,2017,58335,CNG,Automatic,3,Bhopal,1,20000
+car,Maruti,Model_5,2015,93133,CNG,Automatic,2,Bhopal,2,453734
+car,Honda,Model_5,2014,63916,CNG,Automatic,2,Indore,5,522168
+truck,Tata,Model_1,2022,68835,Petrol,Manual,1,Bhubaneswar,2,342330
+bike,Hero,Model_4,2014,99132,CNG,Automatic,2,Indore,2,20000
+auto,Bajaj,Model_1,2023,138658,Petrol,Automatic,2,Bhopal,5,20000
+auto,TVS,Model_5,2021,36956,Diesel,Manual,3,Bhopal,4,56088
+car,Honda,Model_4,2022,135465,Diesel,Automatic,1,Bhopal,5,539070
+car,Hyundai,Model_2,2016,85944,Petrol,Automatic,3,Raipur,2,488112
+bike,Honda,Model_3,2018,132547,Diesel,Manual,2,Indore,4,20000
+car,Honda,Model_4,2010,58354,CNG,Manual,1,Raipur,4,443292
+auto,Bajaj,Model_5,2015,145439,Petrol,Manual,3,Raipur,3,20000
+truck,Ashok Leyland,Model_2,2018,32639,Diesel,Manual,3,Bhopal,5,364722
+car,Honda,Model_4,2019,36515,CNG,Manual,1,Bhopal,4,666970
+truck,Tata,Model_4,2010,12308,Petrol,Automatic,1,Bhopal,4,235384
+auto,Bajaj,Model_2,2017,23866,Diesel,Automatic,2,Indore,3,20000
+auto,Bajaj,Model_2,2010,145195,Diesel,Manual,3,Bhubaneswar,3,20000
+auto,Bajaj,Model_1,2021,85816,Diesel,Manual,3,Raipur,4,20000
+truck,Ashok Leyland,Model_1,2016,29795,CNG,Automatic,2,Bhubaneswar,3,310410
+car,Honda,Model_4,2023,135576,Petrol,Automatic,3,Ranchi,5,558848
+truck,Ashok Leyland,Model_4,2022,40510,CNG,Automatic,3,Indore,4,418980
+truck,Tata,Model_5,2019,48791,Diesel,Automatic,2,Raipur,5,352418
+bike,Honda,Model_5,2023,41158,Diesel,Automatic,3,Bhopal,2,20000
+truck,Ashok Leyland,Model_2,2015,53041,CNG,Manual,2,Bhopal,5,263918
+truck,Ashok Leyland,Model_1,2013,71624,CNG,Manual,2,Bhubaneswar,1,146752
+bike,TVS,Model_2,2021,125866,Diesel,Manual,3,Indore,4,20000
+bike,Honda,Model_1,2012,114314,Diesel,Manual,3,Ranchi,1,20000
+bike,Honda,Model_3,2017,90871,Diesel,Automatic,3,Bhopal,2,20000
+truck,Tata,Model_4,2023,69806,Diesel,Manual,2,Bhubaneswar,5,390388
+car,Hyundai,Model_4,2016,61026,Petrol,Automatic,3,Bhubaneswar,3,547948
+truck,Tata,Model_3,2012,145528,CNG,Automatic,1,Bhopal,3,20000
+truck,Tata,Model_2,2014,134149,CNG,Automatic,2,Bhubaneswar,1,41702
+bike,TVS,Model_3,2015,36577,CNG,Manual,2,Ranchi,5,20000
+car,Maruti,Model_5,2015,128195,Petrol,Manual,2,Raipur,4,403610
+auto,TVS,Model_3,2012,18797,CNG,Automatic,1,Indore,1,20000
+auto,TVS,Model_1,2012,68983,Diesel,Manual,1,Bhopal,1,20000
+auto,TVS,Model_4,2020,140933,Diesel,Automatic,3,Ranchi,5,20000
+auto,Bajaj,Model_1,2015,66095,Petrol,Automatic,3,Ranchi,4,20000
+auto,TVS,Model_2,2020,115904,Petrol,Automatic,1,Ranchi,1,20000
+car,Honda,Model_1,2017,88148,Diesel,Automatic,3,Raipur,5,533704
+auto,Bajaj,Model_5,2016,23194,Diesel,Manual,1,Ranchi,5,20000
+auto,Bajaj,Model_3,2013,73732,CNG,Manual,1,Bhubaneswar,1,20000
+auto,TVS,Model_2,2017,21232,Diesel,Manual,2,Bhopal,2,20000
+car,Hyundai,Model_3,2022,126343,CNG,Automatic,3,Ranchi,4,547314
+truck,Ashok Leyland,Model_4,2018,42497,CNG,Automatic,3,Bhopal,1,305006
+bike,Yamaha,Model_3,2019,32525,Petrol,Manual,3,Bhubaneswar,4,20000
+bike,Honda,Model_3,2012,105018,Petrol,Manual,2,Bhubaneswar,1,20000
+car,Maruti,Model_3,2010,140155,Petrol,Manual,3,Indore,4,279690
+car,Honda,Model_1,2010,127237,CNG,Automatic,1,Indore,1,275526
+auto,TVS,Model_1,2016,82917,Petrol,Automatic,3,Indore,3,20000
+truck,Tata,Model_5,2013,131973,CNG,Automatic,3,Raipur,3,46054
+bike,TVS,Model_1,2012,149763,CNG,Manual,3,Ranchi,4,20000
+car,Maruti,Model_1,2018,109103,Diesel,Manual,1,Bhubaneswar,5,511794
+car,Hyundai,Model_2,2020,10578,Petrol,Automatic,2,Ranchi,1,708844
+truck,Ashok Leyland,Model_1,2011,147531,CNG,Automatic,1,Raipur,5,20000
+truck,Tata,Model_1,2016,80903,Petrol,Manual,2,Bhubaneswar,1,188194
+car,Maruti,Model_2,2010,136479,Petrol,Manual,3,Indore,1,257042
+auto,Bajaj,Model_3,2015,126246,CNG,Manual,1,Ranchi,1,20000
+bike,Yamaha,Model_2,2023,90128,Diesel,Automatic,2,Bhubaneswar,2,20000
+car,Honda,Model_3,2022,76940,Petrol,Automatic,3,Bhopal,3,636120
+auto,Bajaj,Model_2,2016,103313,CNG,Automatic,1,Bhubaneswar,4,20000
+truck,Ashok Leyland,Model_3,2010,138160,Petrol,Automatic,1,Raipur,1,20000
+car,Maruti,Model_4,2016,100533,Petrol,Manual,2,Raipur,2,458934
+car,Maruti,Model_1,2016,23738,Petrol,Automatic,2,Bhubaneswar,5,642524
+bike,TVS,Model_2,2010,16280,CNG,Automatic,3,Bhopal,2,20000
+auto,Bajaj,Model_3,2016,133811,Petrol,Automatic,2,Raipur,2,20000
+bike,TVS,Model_5,2018,30233,Diesel,Manual,3,Bhopal,2,20000
+car,Hyundai,Model_4,2015,81674,CNG,Manual,3,Ranchi,2,476652
+car,Maruti,Model_2,2023,38102,Diesel,Automatic,1,Raipur,1,713796
+truck,Tata,Model_1,2023,72701,Diesel,Automatic,1,Ranchi,1,344598
+truck,Ashok Leyland,Model_3,2023,137023,Petrol,Manual,3,Bhopal,3,235954
+truck,Tata,Model_5,2023,147348,Petrol,Manual,3,Ranchi,2,205304
+auto,TVS,Model_5,2017,41622,Petrol,Automatic,1,Raipur,3,20000
+car,Maruti,Model_4,2020,5092,CNG,Automatic,2,Bhubaneswar,2,729816
+bike,Yamaha,Model_4,2017,142292,Petrol,Automatic,3,Bhopal,1,20000
+truck,Ashok Leyland,Model_5,2022,98945,Petrol,Automatic,3,Raipur,5,312110
+bike,Hero,Model_4,2019,95101,CNG,Automatic,1,Raipur,2,20000
+auto,TVS,Model_5,2021,73650,Diesel,Automatic,2,Bhopal,2,20000
+auto,Bajaj,Model_1,2011,145242,Petrol,Manual,2,Ranchi,3,20000
+truck,Ashok Leyland,Model_4,2011,117385,Petrol,Manual,2,Indore,3,35230
+bike,Yamaha,Model_2,2016,68965,CNG,Automatic,2,Raipur,3,20000
+car,Honda,Model_5,2021,97088,Petrol,Automatic,3,Indore,2,565824
+auto,Bajaj,Model_1,2022,61900,Diesel,Manual,1,Indore,4,26200
+bike,Yamaha,Model_1,2023,111485,Diesel,Automatic,3,Ranchi,4,20000
+bike,TVS,Model_5,2017,120397,CNG,Automatic,2,Bhopal,5,20000
+truck,Tata,Model_3,2011,39510,Petrol,Manual,1,Bhubaneswar,2,180980
+truck,Tata,Model_4,2013,115119,Diesel,Automatic,2,Bhubaneswar,5,99762
+truck,Tata,Model_2,2017,50113,Diesel,Manual,3,Bhubaneswar,1,269774
+auto,Bajaj,Model_4,2023,141289,CNG,Manual,1,Raipur,2,20000
+auto,Bajaj,Model_2,2012,64044,CNG,Manual,3,Ranchi,4,20000
+truck,Tata,Model_1,2014,33052,CNG,Manual,1,Indore,5,283896
+auto,Bajaj,Model_1,2020,21734,CNG,Manual,3,Indore,3,56532
+auto,Bajaj,Model_4,2020,114461,Petrol,Manual,1,Raipur,4,20000
+auto,Bajaj,Model_2,2015,45846,CNG,Automatic,2,Bhubaneswar,5,20000
+auto,TVS,Model_2,2012,131890,Diesel,Automatic,2,Bhopal,4,20000
+bike,TVS,Model_5,2022,76328,Diesel,Automatic,1,Bhopal,1,20000
+truck,Tata,Model_2,2013,114635,Petrol,Automatic,3,Indore,3,80730
+car,Honda,Model_1,2020,94553,Diesel,Automatic,2,Bhopal,1,540894
+truck,Ashok Leyland,Model_4,2013,105892,Diesel,Automatic,3,Ranchi,1,78216
+bike,Hero,Model_2,2015,140904,Diesel,Automatic,2,Indore,1,20000
+car,Maruti,Model_2,2023,58660,Diesel,Manual,1,Raipur,5,712680
+auto,Bajaj,Model_3,2020,128653,CNG,Automatic,3,Raipur,3,20000
+car,Maruti,Model_5,2014,118096,Diesel,Manual,2,Bhopal,1,373808
+car,Tata,Model_2,2013,68470,Petrol,Automatic,3,Indore,1,453060
+auto,TVS,Model_1,2012,72102,Petrol,Manual,1,Indore,3,20000
+car,Tata,Model_3,2010,108596,Petrol,Manual,2,Bhubaneswar,5,352808
+car,Hyundai,Model_4,2012,16425,CNG,Automatic,2,Indore,1,537150
+auto,Bajaj,Model_1,2022,31085,Petrol,Manual,3,Bhopal,4,87830
+bike,Honda,Model_1,2011,19422,Diesel,Automatic,2,Bhubaneswar,3,20000
+car,Tata,Model_5,2012,6628,Diesel,Manual,2,Bhopal,5,596744
+truck,Ashok Leyland,Model_1,2023,38395,Petrol,Manual,1,Ranchi,5,453210
+car,Hyundai,Model_2,2018,82798,Diesel,Manual,2,Bhubaneswar,3,544404
+bike,Honda,Model_5,2012,129395,Diesel,Automatic,2,Raipur,5,20000
+car,Honda,Model_5,2011,48743,CNG,Automatic,1,Bhopal,2,462514
+bike,TVS,Model_5,2014,33849,Diesel,Automatic,2,Raipur,4,20000
+bike,Honda,Model_5,2014,133405,Diesel,Manual,2,Bhopal,5,20000
+bike,Yamaha,Model_4,2021,100754,CNG,Manual,1,Bhubaneswar,1,20000
+car,Maruti,Model_4,2020,91319,Petrol,Automatic,3,Ranchi,1,547362
+auto,TVS,Model_3,2017,48790,CNG,Automatic,3,Bhopal,2,20000
+bike,TVS,Model_2,2012,32161,CNG,Manual,3,Ranchi,4,20000
+auto,Bajaj,Model_1,2018,104455,Petrol,Automatic,3,Bhopal,4,20000
+bike,TVS,Model_3,2011,58884,Diesel,Manual,1,Ranchi,3,20000
+bike,Hero,Model_5,2011,80368,CNG,Automatic,2,Ranchi,4,20000
+truck,Ashok Leyland,Model_4,2023,64441,Petrol,Automatic,3,Indore,2,371118
+bike,Yamaha,Model_5,2015,5294,CNG,Manual,3,Bhopal,1,20000
+car,Maruti,Model_1,2019,93504,CNG,Automatic,1,Indore,1,522992
+bike,Honda,Model_4,2019,67750,Petrol,Automatic,2,Bhopal,1,20000
+car,Honda,Model_3,2022,40688,CNG,Automatic,1,Indore,3,708624
+auto,Bajaj,Model_5,2012,70317,CNG,Automatic,3,Bhubaneswar,5,20000
+auto,TVS,Model_4,2014,62862,Petrol,Automatic,1,Raipur,2,20000
+car,Honda,Model_3,2013,145024,Diesel,Automatic,3,Bhopal,2,309952
+bike,Hero,Model_1,2013,66250,Diesel,Automatic,3,Bhubaneswar,5,20000
+auto,TVS,Model_1,2014,92076,CNG,Manual,2,Ranchi,1,20000
+car,Maruti,Model_3,2014,131483,CNG,Automatic,3,Indore,4,377034
+truck,Tata,Model_4,2012,9094,Diesel,Manual,3,Bhopal,4,281812
+auto,TVS,Model_5,2022,103701,CNG,Manual,2,Bhubaneswar,3,20000
+truck,Tata,Model_4,2015,5395,Diesel,Manual,2,Bhubaneswar,1,319210
+auto,Bajaj,Model_1,2019,66233,CNG,Manual,2,Ranchi,5,20000
+truck,Tata,Model_3,2011,16489,CNG,Automatic,1,Bhubaneswar,3,237022
+truck,Tata,Model_1,2019,114227,CNG,Manual,1,Raipur,5,221546
+auto,TVS,Model_5,2015,57044,Diesel,Automatic,2,Ranchi,1,20000
+bike,Honda,Model_5,2011,66714,Diesel,Automatic,2,Bhubaneswar,2,20000
+car,Tata,Model_5,2023,143330,CNG,Automatic,2,Bhubaneswar,4,533340
+car,Honda,Model_1,2022,144558,CNG,Manual,2,Bhubaneswar,5,520884
+bike,TVS,Model_5,2019,81931,CNG,Automatic,1,Ranchi,1,20000
+truck,Tata,Model_1,2018,72947,Petrol,Manual,2,Bhubaneswar,3,264106
+bike,Hero,Model_1,2014,71167,Petrol,Automatic,3,Bhubaneswar,4,20000
+car,Maruti,Model_5,2018,19756,Petrol,Automatic,2,Raipur,4,680488
+car,Maruti,Model_3,2021,120398,CNG,Automatic,3,Ranchi,5,549204
+bike,TVS,Model_1,2017,65813,Petrol,Manual,2,Raipur,1,20000
+car,Hyundai,Model_2,2018,84617,Diesel,Manual,1,Bhopal,1,520766
+car,Hyundai,Model_5,2020,24180,CNG,Manual,3,Indore,3,701640
+truck,Ashok Leyland,Model_5,2016,64408,CNG,Automatic,1,Ranchi,5,261184
+bike,TVS,Model_1,2012,48695,Diesel,Manual,3,Bhopal,5,20000
+bike,Honda,Model_3,2010,42003,Petrol,Automatic,1,Indore,2,20000
+car,Hyundai,Model_3,2016,89374,Diesel,Automatic,1,Indore,2,481252
+car,Tata,Model_1,2020,133846,CNG,Automatic,3,Indore,2,472308
+car,Maruti,Model_1,2020,47213,Diesel,Automatic,3,Bhubaneswar,5,675574
+car,Maruti,Model_1,2012,128526,Diesel,Manual,3,Raipur,5,352948
+truck,Tata,Model_3,2013,91035,Diesel,Automatic,3,Bhubaneswar,4,137930
+auto,TVS,Model_3,2022,89352,CNG,Manual,3,Raipur,3,20000
+truck,Tata,Model_4,2023,81290,Petrol,Automatic,2,Indore,3,347420
+bike,Yamaha,Model_3,2010,56610,Diesel,Automatic,3,Indore,2,20000
+truck,Ashok Leyland,Model_4,2019,58356,Petrol,Automatic,2,Bhubaneswar,4,323288
+bike,Hero,Model_5,2020,60104,CNG,Manual,3,Raipur,1,20000
+auto,TVS,Model_4,2021,60108,Diesel,Manual,2,Bhopal,2,20000
+car,Honda,Model_4,2018,115580,Diesel,Manual,1,Bhubaneswar,5,498840
+bike,Hero,Model_1,2015,46828,Petrol,Manual,1,Bhopal,5,20000
+auto,Bajaj,Model_4,2021,136365,CNG,Automatic,2,Bhubaneswar,2,20000
+bike,TVS,Model_5,2021,20089,Diesel,Manual,3,Indore,3,20000
+bike,Hero,Model_2,2021,70033,Petrol,Manual,3,Ranchi,4,20000
+car,Hyundai,Model_3,2022,125798,CNG,Automatic,1,Raipur,4,548404
+auto,TVS,Model_5,2019,35805,Diesel,Automatic,1,Bhubaneswar,4,20000
+bike,Honda,Model_3,2011,45299,CNG,Automatic,1,Ranchi,4,20000
+car,Maruti,Model_5,2019,128954,CNG,Manual,2,Ranchi,4,482092
+truck,Ashok Leyland,Model_2,2010,38337,CNG,Automatic,2,Raipur,5,193326
+truck,Ashok Leyland,Model_3,2013,15299,CNG,Automatic,3,Ranchi,5,299402
+auto,TVS,Model_2,2011,65379,Petrol,Manual,2,Raipur,1,20000
+car,Hyundai,Model_4,2019,48233,CNG,Manual,3,Raipur,2,623534
+truck,Tata,Model_4,2019,145744,Petrol,Manual,1,Bhopal,1,118512
+car,Honda,Model_5,2020,54418,CNG,Manual,1,Indore,3,641164
+car,Tata,Model_1,2023,76981,CNG,Manual,1,Bhopal,2,646038
+car,Maruti,Model_3,2014,85402,CNG,Automatic,1,Ranchi,3,459196
+truck,Tata,Model_3,2019,39541,Petrol,Automatic,3,Raipur,5,370918
+bike,Yamaha,Model_3,2019,60868,CNG,Automatic,2,Bhopal,5,20000
+truck,Tata,Model_1,2011,80333,Diesel,Automatic,1,Bhubaneswar,4,119334
+car,Maruti,Model_4,2017,29879,Diesel,Automatic,2,Bhubaneswar,2,620242
+car,Honda,Model_5,2015,131188,CNG,Automatic,3,Bhubaneswar,3,387624
+auto,TVS,Model_4,2015,88223,CNG,Manual,3,Bhubaneswar,4,20000
+truck,Tata,Model_1,2020,13191,Petrol,Manual,1,Bhubaneswar,1,403618
+car,Tata,Model_5,2022,146185,Petrol,Manual,1,Bhopal,3,497630
+bike,Hero,Model_2,2020,94709,Petrol,Automatic,2,Indore,2,20000
+auto,TVS,Model_1,2013,120088,Petrol,Manual,2,Bhopal,1,20000
+truck,Tata,Model_4,2016,40854,Diesel,Manual,2,Ranchi,1,268292
+auto,TVS,Model_5,2018,113870,CNG,Manual,2,Ranchi,1,20000
+car,Maruti,Model_2,2022,6325,Petrol,Automatic,3,Ranchi,5,797350
+car,Maruti,Model_2,2014,85930,CNG,Manual,3,Bhopal,5,478140
+auto,Bajaj,Model_5,2019,11516,CNG,Automatic,1,Ranchi,3,56968
+auto,Bajaj,Model_2,2021,6599,Petrol,Manual,1,Bhubaneswar,1,86802
+auto,TVS,Model_3,2019,122347,CNG,Automatic,3,Bhopal,4,20000
+truck,Ashok Leyland,Model_2,2016,137215,Petrol,Manual,2,Indore,5,115570
+bike,Hero,Model_1,2019,26556,Diesel,Manual,3,Bhopal,2,20000
+bike,Honda,Model_4,2017,5856,Diesel,Manual,2,Indore,4,20000
+auto,TVS,Model_5,2017,8547,CNG,Manual,1,Bhubaneswar,2,20000
+car,Maruti,Model_2,2023,141542,Diesel,Manual,3,Ranchi,5,546916
+auto,TVS,Model_5,2019,67333,Diesel,Manual,2,Indore,1,20000
+truck,Ashok Leyland,Model_2,2022,132645,Petrol,Manual,2,Bhopal,2,214710
+truck,Tata,Model_1,2013,104978,Diesel,Automatic,3,Bhubaneswar,4,110044
+bike,Hero,Model_2,2023,26665,Petrol,Automatic,2,Raipur,4,36670
+bike,Hero,Model_4,2018,57108,Diesel,Manual,3,Bhubaneswar,4,20000
+car,Hyundai,Model_5,2013,35498,Petrol,Automatic,1,Ranchi,1,519004
+truck,Ashok Leyland,Model_5,2022,31690,Diesel,Manual,1,Indore,1,406620
+car,Honda,Model_1,2023,21388,Petrol,Automatic,3,Bhubaneswar,4,777224
+car,Maruti,Model_4,2019,29254,CNG,Manual,3,Raipur,3,671492
+truck,Ashok Leyland,Model_4,2014,70318,CNG,Automatic,2,Indore,1,169364
+bike,Yamaha,Model_1,2020,112477,CNG,Automatic,3,Indore,1,20000
+truck,Tata,Model_1,2019,81516,Diesel,Automatic,3,Indore,3,266968
+auto,Bajaj,Model_3,2023,10188,Petrol,Automatic,3,Ranchi,1,119624
+car,Hyundai,Model_5,2020,115949,CNG,Manual,1,Ranchi,5,538102
+auto,Bajaj,Model_4,2016,17450,Petrol,Manual,2,Bhubaneswar,3,20000
+auto,Bajaj,Model_4,2011,86876,Petrol,Automatic,2,Bhubaneswar,4,20000
+bike,TVS,Model_4,2019,97092,Petrol,Manual,3,Ranchi,3,20000
+car,Maruti,Model_4,2022,132805,CNG,Manual,1,Bhubaneswar,1,504390
+truck,Ashok Leyland,Model_1,2014,69325,CNG,Automatic,1,Bhopal,3,191350
+truck,Tata,Model_2,2019,84354,Diesel,Manual,3,Bhubaneswar,5,281292
+car,Maruti,Model_5,2018,148036,Diesel,Manual,2,Ranchi,5,433928
+bike,TVS,Model_1,2012,141703,Petrol,Automatic,3,Indore,3,20000
+auto,TVS,Model_5,2013,96977,CNG,Automatic,2,Raipur,1,20000
+auto,TVS,Model_1,2014,37977,CNG,Automatic,3,Indore,3,20000
+auto,Bajaj,Model_1,2018,145720,Petrol,Manual,3,Indore,2,20000
+car,Honda,Model_4,2021,7452,CNG,Automatic,1,Raipur,1,735096
+truck,Ashok Leyland,Model_3,2019,101420,CNG,Automatic,2,Indore,2,217160
+car,Tata,Model_1,2017,146787,Petrol,Manual,1,Bhubaneswar,4,406426
+truck,Ashok Leyland,Model_5,2020,20321,Diesel,Manual,2,Raipur,2,399358
+car,Maruti,Model_1,2013,41128,CNG,Automatic,1,Ranchi,2,517744
+truck,Ashok Leyland,Model_5,2020,49119,CNG,Manual,3,Ranchi,1,331762
+car,Hyundai,Model_5,2019,117160,CNG,Manual,1,Bhubaneswar,5,515680
+truck,Tata,Model_3,2017,130788,CNG,Manual,2,Ranchi,1,108424
+truck,Ashok Leyland,Model_1,2019,81694,Diesel,Automatic,3,Raipur,5,286612
+auto,TVS,Model_2,2014,135370,CNG,Manual,2,Bhopal,4,20000
+car,Hyundai,Model_5,2019,128497,Diesel,Manual,3,Bhubaneswar,5,493006
+truck,Ashok Leyland,Model_3,2022,114063,Petrol,Manual,1,Ranchi,2,251874
+auto,TVS,Model_5,2011,14448,Petrol,Manual,1,Bhopal,4,20000
+auto,Bajaj,Model_1,2012,35617,Petrol,Manual,3,Bhopal,5,20000
+bike,Honda,Model_5,2023,74490,Diesel,Manual,2,Ranchi,4,20000
+truck,Ashok Leyland,Model_2,2013,133863,Diesel,Automatic,3,Bhubaneswar,3,42274
+truck,Tata,Model_5,2015,58102,Diesel,Automatic,3,Bhubaneswar,4,243796
+bike,TVS,Model_2,2016,132625,Petrol,Automatic,2,Bhubaneswar,1,20000
+car,Honda,Model_4,2016,44162,Petrol,Manual,1,Ranchi,3,581676
+bike,Honda,Model_5,2020,39328,CNG,Manual,2,Bhubaneswar,1,20000
+auto,TVS,Model_5,2011,30268,CNG,Manual,2,Ranchi,2,20000
+auto,Bajaj,Model_3,2010,87355,CNG,Manual,1,Raipur,5,20000
+car,Honda,Model_5,2021,40531,Diesel,Automatic,2,Indore,2,678938
+truck,Tata,Model_3,2010,146571,Diesel,Manual,1,Bhubaneswar,4,20000
+car,Hyundai,Model_4,2016,126794,Petrol,Automatic,3,Bhopal,4,426412
+truck,Tata,Model_5,2015,82164,Diesel,Automatic,1,Indore,2,175672
+car,Tata,Model_5,2013,125178,CNG,Automatic,1,Indore,3,359644
+bike,Honda,Model_4,2016,17802,CNG,Automatic,2,Raipur,2,20000
+truck,Tata,Model_5,2020,74407,CNG,Automatic,2,Bhopal,1,281186
+car,Hyundai,Model_2,2017,8633,Diesel,Manual,2,Ranchi,1,652734
+auto,TVS,Model_1,2012,54475,Diesel,Manual,2,Bhopal,5,20000
+truck,Tata,Model_4,2015,27014,Petrol,Automatic,1,Ranchi,3,295972
+auto,TVS,Model_3,2019,79907,Petrol,Automatic,1,Indore,1,20000
+auto,Bajaj,Model_3,2016,108140,Diesel,Automatic,3,Bhubaneswar,5,20000
+truck,Tata,Model_1,2019,59893,Petrol,Automatic,1,Raipur,5,330214
+bike,Honda,Model_3,2012,14083,Diesel,Manual,1,Bhubaneswar,3,20000
+car,Hyundai,Model_3,2021,56959,Petrol,Automatic,2,Ranchi,1,636082
+bike,TVS,Model_5,2010,119221,Diesel,Automatic,1,Bhopal,1,20000
+car,Tata,Model_4,2016,18077,CNG,Automatic,2,Raipur,4,643846
+truck,Tata,Model_1,2017,139746,Petrol,Manual,1,Raipur,5,130508
+car,Honda,Model_4,2013,49471,Diesel,Automatic,3,Bhopal,2,501058
+truck,Tata,Model_2,2015,26609,Diesel,Automatic,1,Bhopal,5,316782
+truck,Tata,Model_4,2019,41722,Diesel,Manual,1,Raipur,1,326556
+car,Maruti,Model_2,2014,58361,CNG,Manual,1,Ranchi,3,513278
+bike,Hero,Model_2,2018,35050,CNG,Manual,1,Bhubaneswar,2,20000
+bike,Honda,Model_4,2022,149374,Petrol,Manual,1,Raipur,4,20000
+bike,TVS,Model_3,2023,142910,Diesel,Automatic,2,Raipur,3,20000
+bike,Yamaha,Model_2,2012,135361,Diesel,Manual,3,Raipur,1,20000
+truck,Ashok Leyland,Model_1,2017,53586,Diesel,Automatic,1,Raipur,2,272828
+truck,Tata,Model_4,2016,136349,Petrol,Automatic,3,Bhopal,1,77302
+auto,Bajaj,Model_5,2010,78142,Petrol,Automatic,3,Raipur,4,20000
+car,Tata,Model_1,2019,12286,Diesel,Automatic,2,Bhubaneswar,3,705428
+bike,Yamaha,Model_3,2010,147844,Petrol,Automatic,3,Bhopal,5,20000
+auto,Bajaj,Model_1,2016,81416,Petrol,Automatic,1,Bhopal,2,20000
+car,Hyundai,Model_4,2010,127650,Petrol,Manual,1,Bhubaneswar,4,304700
+bike,Yamaha,Model_4,2011,136901,Diesel,Automatic,3,Raipur,2,20000
+bike,TVS,Model_4,2020,40442,Diesel,Manual,2,Bhopal,4,20000
+truck,Ashok Leyland,Model_2,2018,43642,CNG,Manual,2,Bhubaneswar,2,312716
+truck,Tata,Model_3,2012,61385,Diesel,Manual,3,Indore,5,187230
+bike,Yamaha,Model_4,2013,97989,CNG,Automatic,1,Raipur,4,20000
+car,Honda,Model_3,2012,92129,Diesel,Manual,1,Raipur,4,415742
+auto,TVS,Model_5,2013,76358,CNG,Automatic,2,Bhopal,1,20000
+truck,Ashok Leyland,Model_3,2016,59085,Petrol,Manual,3,Bhopal,2,241830
+truck,Tata,Model_2,2018,69121,CNG,Automatic,2,Bhubaneswar,5,291758
+car,Honda,Model_5,2015,73240,Petrol,Automatic,3,Ranchi,4,513520
+bike,Yamaha,Model_3,2015,104849,Diesel,Automatic,2,Ranchi,4,20000
+auto,Bajaj,Model_3,2011,81458,CNG,Automatic,2,Indore,3,20000
+truck,Ashok Leyland,Model_2,2013,125057,Diesel,Automatic,2,Bhopal,4,69886
+bike,TVS,Model_1,2016,90662,CNG,Manual,3,Bhopal,1,20000
+bike,Hero,Model_3,2012,19075,CNG,Manual,1,Ranchi,1,20000
+auto,TVS,Model_3,2022,83584,Diesel,Manual,3,Raipur,1,20000
+truck,Ashok Leyland,Model_4,2023,19448,Diesel,Automatic,1,Bhubaneswar,4,481104
+car,Hyundai,Model_2,2021,110278,Petrol,Manual,2,Bhopal,1,529444
+bike,Honda,Model_1,2018,117749,Diesel,Automatic,3,Indore,2,20000
+car,Maruti,Model_3,2014,127056,Petrol,Manual,3,Bhopal,2,365888
+car,Hyundai,Model_2,2022,130913,Diesel,Manual,1,Raipur,3,528174
+truck,Tata,Model_1,2011,100285,Petrol,Automatic,3,Bhopal,5,89430
+truck,Ashok Leyland,Model_1,2010,14185,CNG,Automatic,2,Raipur,5,241630
+bike,TVS,Model_1,2016,44534,Diesel,Automatic,1,Ranchi,3,20000
+bike,Yamaha,Model_5,2017,68780,Petrol,Manual,3,Indore,4,20000
+auto,TVS,Model_1,2012,65502,Diesel,Automatic,2,Raipur,4,20000
+auto,TVS,Model_4,2023,100455,Petrol,Automatic,2,Ranchi,2,20000
+car,Tata,Model_4,2016,19627,Diesel,Automatic,2,Bhubaneswar,1,610746
+bike,Hero,Model_4,2014,20877,Petrol,Manual,3,Bhubaneswar,3,20000
+auto,TVS,Model_5,2014,47494,Petrol,Manual,3,Bhubaneswar,5,20000
+truck,Tata,Model_2,2018,148660,CNG,Automatic,3,Indore,1,92680
+bike,Hero,Model_2,2018,55713,Diesel,Automatic,2,Bhopal,4,20000
+bike,Yamaha,Model_1,2015,88188,CNG,Manual,2,Bhopal,2,20000
+bike,Yamaha,Model_4,2018,140461,Diesel,Automatic,1,Raipur,2,20000
+car,Tata,Model_2,2012,20042,Petrol,Automatic,2,Raipur,1,529916
+bike,Honda,Model_2,2022,147581,Petrol,Manual,1,Ranchi,2,20000
+auto,Bajaj,Model_4,2022,149257,CNG,Manual,1,Ranchi,4,20000
+truck,Tata,Model_3,2018,24388,Petrol,Manual,1,Indore,4,371224
+car,Honda,Model_4,2015,130679,CNG,Automatic,1,Bhubaneswar,5,408642
+bike,Hero,Model_5,2014,32638,Petrol,Automatic,3,Bhopal,5,20000
+auto,TVS,Model_4,2015,111899,Petrol,Manual,3,Ranchi,5,20000
+car,Tata,Model_1,2020,108612,Diesel,Automatic,2,Indore,5,552776
+car,Hyundai,Model_4,2021,50648,Diesel,Automatic,1,Bhubaneswar,4,678704
+auto,TVS,Model_1,2015,30491,Diesel,Automatic,2,Raipur,4,20000
+truck,Tata,Model_5,2021,120614,Petrol,Automatic,2,Ranchi,1,208772
+auto,TVS,Model_3,2012,134944,Diesel,Manual,2,Bhopal,4,20000
+truck,Tata,Model_1,2019,78114,Petrol,Manual,1,Bhopal,2,263772
+auto,TVS,Model_5,2022,6035,Petrol,Manual,1,Bhopal,1,107930
+bike,Yamaha,Model_5,2020,119107,Diesel,Automatic,3,Bhopal,5,20000
+auto,Bajaj,Model_2,2013,60807,Diesel,Automatic,2,Bhubaneswar,5,20000
+auto,Bajaj,Model_4,2023,148788,Petrol,Manual,1,Raipur,4,20000
+bike,Honda,Model_5,2018,92870,CNG,Automatic,1,Bhopal,3,20000
+auto,Bajaj,Model_4,2022,6584,Petrol,Manual,1,Raipur,4,136832
+auto,Bajaj,Model_1,2015,31952,CNG,Manual,2,Ranchi,5,20000
+bike,Yamaha,Model_3,2022,139800,Petrol,Manual,2,Bhopal,1,20000
+truck,Tata,Model_2,2019,56534,Diesel,Manual,3,Bhopal,5,336932
+bike,Yamaha,Model_2,2018,87411,Diesel,Manual,1,Bhubaneswar,1,20000
+auto,Bajaj,Model_4,2019,106824,CNG,Manual,2,Bhopal,4,20000
+auto,Bajaj,Model_3,2014,110670,Petrol,Manual,3,Bhopal,1,20000
+bike,Yamaha,Model_3,2012,119766,CNG,Manual,3,Indore,5,20000
+auto,TVS,Model_3,2017,44547,Petrol,Manual,3,Bhubaneswar,3,20000
+bike,Hero,Model_4,2015,103915,Diesel,Automatic,2,Raipur,2,20000
+truck,Ashok Leyland,Model_4,2020,52457,Diesel,Automatic,1,Bhopal,1,325086
+bike,TVS,Model_5,2012,60342,CNG,Automatic,1,Ranchi,2,20000
+bike,Yamaha,Model_5,2018,80251,Petrol,Manual,2,Bhubaneswar,4,20000
+bike,Yamaha,Model_2,2020,140414,Diesel,Automatic,3,Ranchi,1,20000
+truck,Tata,Model_2,2012,108732,Petrol,Automatic,3,Bhopal,4,82536
+auto,TVS,Model_5,2017,53171,CNG,Automatic,1,Bhopal,3,20000
+auto,Bajaj,Model_1,2015,134772,Petrol,Manual,1,Ranchi,4,20000
+car,Hyundai,Model_3,2018,146240,Diesel,Manual,1,Bhubaneswar,1,397520
+bike,Honda,Model_1,2016,81011,CNG,Manual,1,Bhopal,3,20000
+bike,TVS,Model_2,2013,123548,Diesel,Manual,2,Raipur,1,20000
+truck,Tata,Model_2,2010,149003,Diesel,Automatic,1,Ranchi,4,20000
+car,Hyundai,Model_4,2018,55823,Petrol,Manual,3,Bhopal,5,618354
+truck,Ashok Leyland,Model_3,2011,127982,Diesel,Manual,2,Indore,2,20000
+car,Honda,Model_1,2012,75833,Petrol,Automatic,3,Raipur,2,428334
+auto,TVS,Model_2,2012,37061,CNG,Manual,1,Bhopal,5,20000
+car,Honda,Model_1,2020,78130,CNG,Manual,1,Indore,3,593740
+auto,Bajaj,Model_1,2021,75004,CNG,Manual,1,Indore,5,20000
+auto,Bajaj,Model_3,2011,104190,CNG,Automatic,3,Indore,2,20000
+car,Tata,Model_2,2021,114076,Petrol,Automatic,2,Ranchi,3,541848
+car,Hyundai,Model_1,2013,116508,Petrol,Automatic,3,Bhopal,3,376984
+bike,Honda,Model_5,2010,127216,Petrol,Manual,3,Raipur,1,20000
+car,Honda,Model_3,2019,63079,CNG,Automatic,3,Raipur,1,583842
+car,Hyundai,Model_2,2023,115561,Petrol,Automatic,1,Raipur,1,558878
+truck,Ashok Leyland,Model_3,2013,106128,Diesel,Manual,2,Bhubaneswar,2,87744
+bike,Hero,Model_5,2021,58729,CNG,Automatic,3,Bhubaneswar,4,20000
+auto,TVS,Model_2,2023,139485,Diesel,Automatic,3,Ranchi,3,20000
+bike,Honda,Model_3,2017,16952,Petrol,Manual,1,Ranchi,2,20000
+car,Tata,Model_5,2020,35728,Petrol,Manual,2,Indore,5,698544
+truck,Ashok Leyland,Model_3,2015,79553,Petrol,Automatic,3,Bhubaneswar,4,200894
+bike,Hero,Model_1,2023,93499,Petrol,Manual,1,Ranchi,5,20000
+auto,Bajaj,Model_4,2012,113122,Diesel,Automatic,3,Bhubaneswar,1,20000
+car,Hyundai,Model_4,2021,84993,Diesel,Manual,1,Indore,3,600014
+bike,TVS,Model_1,2014,10760,CNG,Automatic,1,Bhubaneswar,1,20000
+auto,TVS,Model_5,2015,18693,Diesel,Automatic,3,Indore,3,20000
+car,Hyundai,Model_1,2022,114786,Diesel,Manual,1,Indore,3,560428
+auto,TVS,Model_1,2023,46852,CNG,Automatic,1,Bhopal,2,56296
+truck,Ashok Leyland,Model_5,2017,49281,Diesel,Manual,1,Bhopal,2,281438
+auto,TVS,Model_5,2011,57002,Petrol,Manual,1,Ranchi,1,20000
+car,Tata,Model_4,2023,118719,CNG,Automatic,3,Indore,1,552562
+car,Tata,Model_2,2019,126431,Petrol,Manual,3,Indore,2,467138
+bike,TVS,Model_2,2016,37513,Petrol,Automatic,2,Bhubaneswar,4,20000
+truck,Tata,Model_5,2014,140416,Diesel,Automatic,2,Raipur,1,29168
+truck,Tata,Model_5,2020,35219,Petrol,Manual,2,Bhopal,5,399562
+auto,Bajaj,Model_4,2018,95778,Diesel,Manual,1,Indore,4,20000
+truck,Tata,Model_5,2011,88505,Diesel,Manual,2,Raipur,2,82990
+car,Hyundai,Model_3,2016,126470,Petrol,Automatic,3,Bhubaneswar,4,427060
+car,Honda,Model_3,2011,115268,Diesel,Manual,3,Indore,2,329464
+car,Tata,Model_2,2016,148117,Diesel,Automatic,3,Bhubaneswar,1,353766
+car,Maruti,Model_4,2018,51773,Petrol,Automatic,1,Ranchi,4,616454
+truck,Tata,Model_1,2022,111759,Petrol,Automatic,3,Indore,5,286482
+bike,Hero,Model_5,2021,12160,Diesel,Automatic,2,Raipur,4,25680
+truck,Tata,Model_4,2017,95532,CNG,Automatic,2,Bhopal,5,218936
+bike,Honda,Model_5,2021,135791,Diesel,Automatic,1,Ranchi,2,20000
+car,Maruti,Model_3,2018,16591,Diesel,Automatic,1,Ranchi,3,676818
+truck,Tata,Model_3,2019,79622,CNG,Automatic,1,Bhubaneswar,2,260756
+truck,Tata,Model_4,2021,21694,Petrol,Manual,2,Ranchi,3,426612
+car,Hyundai,Model_5,2011,19984,Diesel,Manual,2,Bhopal,3,530032
+auto,Bajaj,Model_2,2018,142601,Diesel,Automatic,3,Bhubaneswar,4,20000
+bike,Yamaha,Model_4,2011,51313,CNG,Manual,1,Bhopal,3,20000
+bike,TVS,Model_3,2014,127140,Diesel,Manual,3,Indore,3,20000
+bike,Yamaha,Model_5,2011,46976,Diesel,Automatic,2,Indore,4,20000
+auto,Bajaj,Model_4,2013,142964,CNG,Manual,3,Indore,4,20000
+car,Hyundai,Model_4,2017,64260,Petrol,Manual,1,Bhopal,2,551480
+auto,Bajaj,Model_3,2011,78558,Diesel,Automatic,3,Bhubaneswar,5,20000
+truck,Tata,Model_2,2021,30870,Diesel,Manual,2,Raipur,3,408260
+bike,Honda,Model_3,2015,8620,Diesel,Manual,1,Ranchi,4,20000
+auto,TVS,Model_4,2018,107363,Diesel,Manual,1,Raipur,1,20000
+truck,Tata,Model_4,2021,116084,Diesel,Automatic,3,Ranchi,5,257832
+auto,Bajaj,Model_2,2018,92929,CNG,Automatic,1,Bhopal,2,20000
+car,Maruti,Model_4,2019,10400,Diesel,Manual,2,Raipur,5,729200
+truck,Ashok Leyland,Model_1,2022,106207,Diesel,Automatic,1,Ranchi,5,297586
+bike,TVS,Model_4,2019,71160,Petrol,Manual,3,Ranchi,4,20000
+car,Hyundai,Model_4,2014,144808,CNG,Automatic,2,Raipur,5,360384
+car,Maruti,Model_5,2016,44952,Petrol,Automatic,2,Raipur,1,560096
+auto,Bajaj,Model_4,2012,127055,Diesel,Automatic,1,Indore,1,20000
+car,Maruti,Model_2,2017,144189,Diesel,Manual,2,Indore,2,391622
+auto,Bajaj,Model_1,2022,133293,Petrol,Manual,3,Bhopal,2,20000
+bike,Yamaha,Model_4,2013,26750,Diesel,Manual,1,Bhopal,5,20000
+car,Honda,Model_3,2019,122085,Diesel,Manual,3,Ranchi,4,495830
+car,Hyundai,Model_3,2023,52103,Petrol,Manual,3,Bhopal,4,715794
+truck,Ashok Leyland,Model_5,2010,40487,Petrol,Automatic,1,Indore,1,149026
+car,Honda,Model_2,2012,144588,Petrol,Manual,1,Ranchi,1,280824
+auto,TVS,Model_5,2023,73115,CNG,Automatic,2,Indore,3,20000
+bike,Honda,Model_2,2015,37521,Petrol,Manual,3,Bhopal,4,20000
+car,Hyundai,Model_3,2014,18081,Diesel,Manual,2,Bhubaneswar,3,593838
+bike,Yamaha,Model_2,2020,16753,CNG,Automatic,3,Bhubaneswar,3,20000
+car,Maruti,Model_2,2012,91108,Petrol,Manual,1,Ranchi,5,427784
+auto,Bajaj,Model_4,2018,10459,Diesel,Automatic,2,Bhubaneswar,3,39082
+bike,TVS,Model_2,2022,73955,Diesel,Manual,3,Indore,1,20000
+car,Hyundai,Model_2,2017,69590,Petrol,Manual,2,Bhubaneswar,3,550820
+bike,Yamaha,Model_3,2022,58791,CNG,Automatic,2,Raipur,4,20000
+auto,TVS,Model_5,2014,29416,Diesel,Automatic,2,Raipur,5,20000
+auto,TVS,Model_5,2023,51254,Diesel,Automatic,2,Indore,1,37492
+auto,Bajaj,Model_5,2014,142428,CNG,Manual,2,Raipur,4,20000
+bike,Yamaha,Model_3,2023,63197,CNG,Manual,2,Ranchi,2,20000
+auto,Bajaj,Model_1,2019,107528,Diesel,Manual,3,Ranchi,2,20000
+car,Maruti,Model_4,2014,53721,Diesel,Manual,1,Raipur,1,502558
+car,Hyundai,Model_2,2016,128881,Diesel,Manual,3,Bhopal,1,392238
+truck,Tata,Model_1,2010,81847,Petrol,Automatic,3,Ranchi,3,86306
+auto,Bajaj,Model_2,2013,136662,CNG,Automatic,2,Ranchi,2,20000
+bike,Honda,Model_2,2012,12111,Petrol,Manual,3,Ranchi,3,20000
+auto,Bajaj,Model_5,2012,130491,Petrol,Manual,1,Indore,5,20000
+bike,TVS,Model_5,2012,12599,Diesel,Manual,2,Raipur,4,20000
+auto,TVS,Model_1,2017,39443,Petrol,Automatic,1,Bhubaneswar,2,20000
+truck,Tata,Model_5,2010,84367,CNG,Automatic,1,Bhopal,3,81266
+car,Honda,Model_4,2021,72729,Diesel,Manual,1,Ranchi,3,624542
+truck,Tata,Model_4,2014,62112,Diesel,Manual,2,Indore,5,225776
+bike,Honda,Model_4,2021,121359,CNG,Manual,2,Ranchi,3,20000
+truck,Tata,Model_2,2022,30059,CNG,Manual,3,Ranchi,2,419882
+bike,Honda,Model_1,2016,32882,CNG,Automatic,1,Indore,4,20000
+truck,Tata,Model_5,2019,147794,Petrol,Manual,1,Raipur,3,134412
+car,Maruti,Model_1,2014,67361,Diesel,Automatic,1,Raipur,1,475278
+truck,Ashok Leyland,Model_3,2023,100929,Petrol,Manual,1,Bhopal,1,288142
+bike,TVS,Model_1,2020,34705,Diesel,Automatic,2,Bhubaneswar,5,20000
+bike,Hero,Model_2,2012,117224,Diesel,Automatic,2,Indore,2,20000
+bike,Yamaha,Model_5,2016,99267,Petrol,Manual,3,Bhubaneswar,2,20000
+car,Maruti,Model_5,2018,72484,Diesel,Automatic,2,Ranchi,4,575032
+car,Maruti,Model_5,2023,135891,Petrol,Manual,2,Bhopal,5,558218
+bike,Yamaha,Model_1,2021,56449,Petrol,Automatic,3,Indore,4,20000
+car,Hyundai,Model_2,2023,139599,Diesel,Manual,3,Bhopal,2,520802
+truck,Ashok Leyland,Model_2,2021,87185,Petrol,Automatic,1,Raipur,3,295630
+truck,Tata,Model_3,2010,92287,CNG,Automatic,1,Bhubaneswar,3,65426
+auto,TVS,Model_2,2014,82410,Diesel,Automatic,3,Bhubaneswar,4,20000
+truck,Ashok Leyland,Model_3,2013,54312,CNG,Manual,1,Bhopal,2,191376
+car,Hyundai,Model_1,2011,114876,CNG,Manual,1,Raipur,1,320248
+auto,Bajaj,Model_2,2010,45134,Diesel,Automatic,3,Ranchi,5,20000
+truck,Tata,Model_4,2012,126086,Diesel,Automatic,2,Raipur,5,57828
+car,Honda,Model_5,2019,95428,Diesel,Manual,1,Raipur,1,519144
+truck,Tata,Model_5,2017,40500,Diesel,Manual,2,Indore,3,309000
+truck,Tata,Model_3,2011,8035,Petrol,Automatic,1,Ranchi,3,253930
+bike,Honda,Model_2,2012,139538,Diesel,Manual,1,Bhopal,5,20000
+auto,Bajaj,Model_3,2010,91833,Diesel,Manual,2,Ranchi,4,20000
+auto,TVS,Model_4,2019,18863,Diesel,Automatic,1,Raipur,1,22274
+auto,Bajaj,Model_1,2016,133373,CNG,Manual,2,Indore,4,20000
+auto,TVS,Model_2,2010,129563,Diesel,Manual,2,Indore,4,20000
+car,Maruti,Model_1,2014,51121,Diesel,Manual,3,Bhopal,1,507758
+bike,Hero,Model_4,2022,73589,Diesel,Manual,3,Bhopal,1,20000
+bike,Honda,Model_2,2014,61273,Diesel,Manual,1,Ranchi,2,20000
+bike,Yamaha,Model_3,2012,120525,Petrol,Automatic,2,Bhopal,4,20000
+auto,Bajaj,Model_3,2022,15976,Diesel,Automatic,2,Ranchi,4,118048
+car,Maruti,Model_1,2015,27590,Diesel,Automatic,1,Ranchi,3,594820
+truck,Ashok Leyland,Model_1,2018,18237,Diesel,Manual,2,Bhubaneswar,4,383526
+auto,Bajaj,Model_1,2010,51740,Petrol,Automatic,3,Indore,1,20000
+bike,TVS,Model_2,2015,116587,Diesel,Manual,3,Ranchi,3,20000
+bike,Honda,Model_4,2021,47016,CNG,Manual,3,Bhopal,3,20000
+truck,Tata,Model_2,2017,75291,Petrol,Manual,1,Bhubaneswar,2,229418
+auto,TVS,Model_4,2016,102552,Petrol,Manual,3,Indore,2,20000
+car,Hyundai,Model_4,2011,9017,Diesel,Manual,1,Bhubaneswar,1,531966
+auto,Bajaj,Model_1,2010,103756,Petrol,Automatic,3,Ranchi,1,20000
+car,Tata,Model_3,2017,26961,CNG,Manual,2,Ranchi,3,636078
+truck,Ashok Leyland,Model_1,2017,54585,CNG,Automatic,3,Indore,2,270830
+truck,Tata,Model_1,2020,36907,Petrol,Manual,1,Ranchi,5,396186
+bike,Honda,Model_3,2010,27336,Diesel,Automatic,2,Ranchi,1,20000
+truck,Ashok Leyland,Model_5,2010,100775,CNG,Automatic,2,Bhubaneswar,4,58450
+car,Maruti,Model_2,2022,148886,CNG,Automatic,2,Bhubaneswar,3,492228
+bike,Hero,Model_4,2017,139628,CNG,Automatic,3,Bhopal,1,20000
+truck,Tata,Model_2,2020,95732,CNG,Automatic,2,Ranchi,4,268536
+truck,Tata,Model_3,2015,140606,Petrol,Automatic,3,Indore,4,78788
+car,Tata,Model_4,2020,51284,CNG,Manual,3,Raipur,5,667432
+bike,TVS,Model_3,2011,73316,CNG,Automatic,3,Raipur,3,20000
+bike,Honda,Model_5,2023,110676,CNG,Automatic,1,Raipur,4,20000
+car,Tata,Model_3,2013,138355,Diesel,Automatic,1,Ranchi,3,333290
+bike,Hero,Model_1,2018,97925,Petrol,Automatic,1,Bhopal,1,20000
+car,Hyundai,Model_2,2012,123127,Diesel,Automatic,1,Bhopal,1,323746
+truck,Tata,Model_1,2023,5542,Diesel,Manual,3,Raipur,3,498916
+car,Hyundai,Model_4,2017,132705,Diesel,Automatic,3,Bhopal,3,424590
+car,Tata,Model_4,2023,98614,Petrol,Manual,1,Bhubaneswar,4,622772
+truck,Tata,Model_5,2011,114589,Diesel,Manual,1,Ranchi,1,20822
+bike,TVS,Model_2,2017,115029,Petrol,Manual,2,Raipur,1,20000
+car,Tata,Model_4,2010,23300,CNG,Manual,3,Indore,1,483400
+bike,Hero,Model_2,2017,95317,Petrol,Automatic,3,Ranchi,3,20000
+bike,TVS,Model_5,2012,48847,CNG,Manual,2,Raipur,5,20000
+truck,Ashok Leyland,Model_2,2020,78975,Diesel,Manual,2,Ranchi,3,292050
+car,Tata,Model_4,2014,9787,Petrol,Automatic,3,Raipur,5,630426
+auto,Bajaj,Model_2,2021,141026,Diesel,Manual,1,Ranchi,4,20000
+bike,TVS,Model_3,2019,131843,CNG,Automatic,3,Ranchi,5,20000
+auto,Bajaj,Model_1,2019,29863,Diesel,Automatic,3,Ranchi,5,40274
+truck,Tata,Model_4,2019,77812,CNG,Manual,2,Bhubaneswar,1,254376
+car,Hyundai,Model_3,2021,88030,Diesel,Automatic,2,Indore,3,593940
+bike,TVS,Model_4,2015,143958,CNG,Manual,2,Bhopal,2,20000
+bike,Hero,Model_1,2014,13215,Petrol,Manual,2,Bhubaneswar,2,20000
+car,Tata,Model_1,2018,45493,CNG,Automatic,1,Raipur,2,609014
+truck,Tata,Model_4,2016,67402,CNG,Manual,3,Ranchi,4,245196
+car,Honda,Model_1,2018,84628,CNG,Automatic,1,Indore,1,520744
+car,Tata,Model_4,2022,47848,Diesel,Manual,1,Bhubaneswar,1,674304
+bike,TVS,Model_5,2019,124713,CNG,Manual,3,Indore,2,20000
+car,Hyundai,Model_4,2011,93996,Petrol,Manual,2,Bhubaneswar,2,372008
+car,Maruti,Model_2,2019,96087,Petrol,Manual,3,Bhopal,4,547826
+truck,Ashok Leyland,Model_4,2014,136928,CNG,Automatic,2,Raipur,4,66144
+truck,Tata,Model_2,2016,90667,Diesel,Manual,2,Bhopal,5,208666
+car,Honda,Model_5,2020,37388,Petrol,Manual,3,Bhopal,5,695224
+bike,Honda,Model_3,2015,123246,CNG,Manual,1,Bhubaneswar,2,20000
+bike,Honda,Model_4,2023,82975,CNG,Manual,3,Ranchi,1,20000
+auto,Bajaj,Model_5,2022,72082,CNG,Manual,1,Bhubaneswar,4,20000
+truck,Ashok Leyland,Model_4,2012,24403,Diesel,Automatic,1,Ranchi,4,251194
+car,Tata,Model_3,2010,31594,Petrol,Manual,2,Bhopal,5,506812
+bike,Yamaha,Model_3,2016,98072,Petrol,Manual,2,Bhopal,1,20000
+car,Hyundai,Model_2,2016,57771,Diesel,Automatic,1,Raipur,3,554458
+car,Maruti,Model_1,2017,136232,CNG,Manual,3,Bhubaneswar,4,427536
+car,Honda,Model_3,2018,47118,CNG,Automatic,1,Bhopal,1,595764
+car,Maruti,Model_4,2012,38709,CNG,Automatic,2,Bhubaneswar,5,532582
+truck,Tata,Model_5,2022,20448,CNG,Automatic,1,Ranchi,1,429104
+truck,Tata,Model_3,2022,34115,CNG,Automatic,2,Raipur,2,411770
+auto,Bajaj,Model_1,2023,6954,CNG,Automatic,2,Bhubaneswar,1,126092
+truck,Tata,Model_4,2019,30677,CNG,Automatic,3,Indore,4,378646
+car,Maruti,Model_4,2014,95513,Petrol,Automatic,2,Bhubaneswar,4,448974
+bike,Yamaha,Model_1,2016,28690,Petrol,Automatic,1,Indore,5,20000
+car,Maruti,Model_3,2014,9753,CNG,Automatic,3,Raipur,2,600494
+bike,Yamaha,Model_1,2011,25433,Petrol,Manual,3,Ranchi,3,20000
+car,Maruti,Model_4,2023,62317,Petrol,Automatic,3,Bhopal,1,665366
+bike,Yamaha,Model_3,2017,76720,CNG,Automatic,2,Bhubaneswar,1,20000
+car,Hyundai,Model_2,2014,148029,Diesel,Automatic,2,Ranchi,5,353942
+truck,Ashok Leyland,Model_2,2015,86598,Petrol,Manual,3,Bhubaneswar,4,186804
+truck,Ashok Leyland,Model_4,2016,14169,Petrol,Automatic,1,Bhubaneswar,5,361662
+truck,Ashok Leyland,Model_2,2010,19404,Diesel,Automatic,3,Ranchi,4,221192
+car,Honda,Model_5,2010,19690,CNG,Automatic,3,Ranchi,5,530620
+car,Honda,Model_4,2023,103530,Diesel,Manual,1,Bhopal,5,622940
+auto,TVS,Model_4,2013,83429,Diesel,Manual,3,Ranchi,2,20000
+car,Maruti,Model_1,2020,142337,CNG,Manual,3,Raipur,2,455326
+truck,Tata,Model_1,2011,72926,Petrol,Manual,1,Bhopal,1,104148
+truck,Tata,Model_1,2014,49360,Diesel,Automatic,1,Ranchi,1,211280
+car,Maruti,Model_4,2015,122688,CNG,Manual,2,Raipur,4,414624
+car,Honda,Model_4,2012,6429,CNG,Manual,2,Ranchi,5,597142
+auto,TVS,Model_5,2021,9874,Diesel,Manual,2,Bhubaneswar,4,110252
+auto,TVS,Model_5,2023,87979,Diesel,Automatic,1,Bhubaneswar,4,20000
+car,Hyundai,Model_5,2019,8725,Petrol,Manual,2,Raipur,2,702550
+truck,Tata,Model_3,2016,16389,CNG,Manual,2,Bhubaneswar,4,347222
+truck,Tata,Model_3,2010,45475,CNG,Manual,2,Raipur,1,139050
+car,Hyundai,Model_3,2017,100135,Petrol,Automatic,1,Raipur,5,509730
+auto,Bajaj,Model_4,2019,63647,Diesel,Manual,1,Bhubaneswar,2,20000
+truck,Ashok Leyland,Model_3,2019,134760,CNG,Automatic,2,Ranchi,5,180480
+truck,Ashok Leyland,Model_5,2019,133103,CNG,Automatic,2,Ranchi,5,183794
+car,Tata,Model_2,2018,142778,Petrol,Automatic,1,Bhubaneswar,2,414444
+bike,TVS,Model_2,2011,33076,Petrol,Automatic,3,Raipur,3,20000
+truck,Tata,Model_1,2015,111540,CNG,Manual,3,Raipur,4,136920
+car,Honda,Model_5,2010,120001,Petrol,Manual,3,Indore,5,329998
+truck,Ashok Leyland,Model_3,2012,83778,Petrol,Manual,3,Bhopal,1,102444
+bike,Hero,Model_5,2017,104971,Petrol,Automatic,2,Bhopal,4,20000
+bike,Hero,Model_1,2012,87904,Diesel,Automatic,1,Bhopal,2,20000
+truck,Ashok Leyland,Model_3,2014,94164,CNG,Automatic,1,Indore,5,161672
+truck,Ashok Leyland,Model_2,2018,103420,Diesel,Manual,1,Bhubaneswar,5,223160
+bike,Honda,Model_5,2014,122501,Diesel,Automatic,1,Bhubaneswar,2,20000
+bike,TVS,Model_4,2021,73421,CNG,Automatic,3,Bhopal,4,20000
+car,Maruti,Model_2,2023,11549,Diesel,Manual,3,Ranchi,2,776902
+truck,Tata,Model_4,2011,143422,CNG,Automatic,1,Ranchi,5,20000
+bike,Yamaha,Model_1,2023,129202,Diesel,Manual,2,Indore,2,20000
+auto,TVS,Model_5,2010,33370,Petrol,Automatic,1,Bhubaneswar,2,20000
+car,Hyundai,Model_1,2011,13536,Diesel,Automatic,2,Bhubaneswar,4,552928
+auto,TVS,Model_2,2018,139257,Petrol,Automatic,1,Raipur,3,20000
+truck,Ashok Leyland,Model_4,2016,94318,CNG,Automatic,3,Ranchi,2,171364
+car,Maruti,Model_1,2015,16912,CNG,Manual,2,Indore,2,606176
+truck,Tata,Model_2,2018,65501,CNG,Automatic,3,Indore,3,278998
+bike,Hero,Model_1,2016,53548,Petrol,Automatic,2,Bhubaneswar,2,20000
+bike,Honda,Model_3,2012,87685,Petrol,Manual,3,Indore,3,20000
+truck,Tata,Model_1,2010,66383,Diesel,Automatic,3,Ranchi,3,117234
+auto,Bajaj,Model_5,2016,78894,Petrol,Automatic,3,Ranchi,1,20000
+truck,Ashok Leyland,Model_3,2015,5637,CNG,Manual,3,Ranchi,2,328726
+car,Maruti,Model_2,2022,21610,Petrol,Automatic,2,Bhubaneswar,3,746780
+truck,Ashok Leyland,Model_5,2015,132261,Petrol,Manual,3,Bhopal,3,85478
+car,Tata,Model_5,2012,55800,Petrol,Automatic,1,Indore,2,468400
+truck,Ashok Leyland,Model_1,2011,108107,CNG,Manual,3,Bhopal,2,43786
+car,Tata,Model_5,2023,113581,Diesel,Automatic,2,Raipur,1,562838
+auto,TVS,Model_3,2011,62501,CNG,Manual,3,Ranchi,1,20000
+auto,Bajaj,Model_5,2023,71511,Petrol,Manual,2,Indore,1,20000
+bike,Honda,Model_5,2023,114166,CNG,Manual,2,Indore,1,20000
+auto,TVS,Model_5,2019,69532,Petrol,Automatic,1,Bhubaneswar,3,20000
+bike,Yamaha,Model_3,2015,123515,Diesel,Manual,3,Indore,4,20000
+truck,Tata,Model_1,2020,65059,Petrol,Manual,3,Bhubaneswar,1,299882
+bike,Honda,Model_3,2014,84291,Diesel,Automatic,3,Ranchi,1,20000
+auto,Bajaj,Model_2,2020,8807,CNG,Automatic,1,Bhubaneswar,2,72386
+truck,Tata,Model_3,2017,71674,Diesel,Automatic,3,Bhopal,3,246652
+auto,TVS,Model_3,2019,6050,Diesel,Manual,2,Indore,2,57900
+auto,Bajaj,Model_3,2020,136146,Diesel,Automatic,1,Bhopal,2,20000
+bike,Yamaha,Model_2,2022,79704,Petrol,Manual,2,Ranchi,4,20000
+auto,TVS,Model_5,2015,59695,Petrol,Manual,2,Bhopal,4,20000
+auto,TVS,Model_1,2015,123846,Diesel,Automatic,1,Bhopal,2,20000
+truck,Ashok Leyland,Model_1,2020,96205,Diesel,Automatic,2,Indore,4,267590
+auto,TVS,Model_3,2023,95296,Diesel,Automatic,2,Ranchi,1,20000
+bike,Honda,Model_1,2019,136430,Diesel,Manual,3,Ranchi,5,20000
+bike,Yamaha,Model_3,2017,77229,Diesel,Manual,1,Bhopal,3,20000
+car,Honda,Model_1,2020,61477,CNG,Automatic,2,Ranchi,1,607046
+auto,Bajaj,Model_4,2021,112498,Petrol,Manual,1,Indore,1,20000
+truck,Ashok Leyland,Model_2,2019,59497,Petrol,Automatic,3,Ranchi,3,311006
+bike,TVS,Model_4,2020,20178,Petrol,Automatic,3,Indore,3,20000
+auto,Bajaj,Model_2,2012,117435,Petrol,Manual,3,Bhopal,1,20000
+car,Tata,Model_1,2020,77006,Petrol,Manual,2,Bhubaneswar,3,595988
+truck,Ashok Leyland,Model_2,2023,10101,Diesel,Manual,1,Bhopal,1,469798
+car,Hyundai,Model_5,2015,19177,CNG,Automatic,1,Indore,4,621646
+bike,Yamaha,Model_1,2023,35675,Diesel,Automatic,3,Bhopal,5,28650
+auto,TVS,Model_5,2017,100332,Diesel,Manual,3,Bhopal,4,20000
+bike,Yamaha,Model_5,2017,71067,CNG,Manual,1,Bhopal,5,20000
+truck,Ashok Leyland,Model_1,2023,34243,Diesel,Automatic,3,Bhubaneswar,3,441514
+bike,Hero,Model_1,2014,25540,CNG,Manual,2,Indore,1,20000
+auto,TVS,Model_2,2016,13616,CNG,Automatic,2,Indore,2,20000
+bike,Hero,Model_4,2018,137601,CNG,Manual,1,Raipur,2,20000
+car,Maruti,Model_3,2014,86339,Petrol,Manual,3,Ranchi,4,467322
+auto,Bajaj,Model_1,2021,45799,Petrol,Automatic,1,Indore,4,38402
+truck,Tata,Model_3,2022,133768,Petrol,Manual,3,Indore,1,202464
+bike,Yamaha,Model_1,2014,79253,Petrol,Automatic,3,Ranchi,2,20000
+auto,TVS,Model_3,2012,26440,Diesel,Automatic,2,Raipur,5,20000
+bike,Yamaha,Model_2,2014,83394,Petrol,Automatic,1,Ranchi,4,20000
+bike,Hero,Model_1,2017,51793,Petrol,Manual,2,Bhubaneswar,4,20000
+truck,Ashok Leyland,Model_5,2019,110213,Diesel,Manual,2,Bhubaneswar,4,219574
+car,Tata,Model_5,2020,109340,Petrol,Manual,3,Indore,2,521320
+bike,TVS,Model_5,2022,48936,Diesel,Automatic,2,Bhubaneswar,2,20000
+car,Hyundai,Model_2,2021,25280,Diesel,Automatic,2,Bhopal,2,709440
+car,Hyundai,Model_3,2022,53246,Diesel,Automatic,1,Bhopal,3,683508
+car,Maruti,Model_2,2015,105241,Diesel,Manual,3,Ranchi,3,439518
+auto,TVS,Model_5,2020,49846,Diesel,Manual,3,Indore,1,20000
+car,Hyundai,Model_3,2019,131030,Diesel,Automatic,2,Ranchi,2,457940
+car,Tata,Model_4,2019,130390,CNG,Automatic,3,Raipur,5,489220
+car,Maruti,Model_4,2022,112225,Petrol,Manual,2,Bhopal,3,565550
+truck,Tata,Model_5,2017,28195,Petrol,Automatic,2,Bhopal,1,313610
+bike,TVS,Model_5,2020,100137,Petrol,Automatic,1,Bhubaneswar,2,20000
+bike,Yamaha,Model_3,2021,147514,Diesel,Automatic,3,Bhopal,2,20000
+car,Hyundai,Model_5,2010,54545,Petrol,Manual,1,Indore,1,420910
+auto,Bajaj,Model_3,2017,125493,CNG,Automatic,3,Ranchi,1,20000
+auto,Bajaj,Model_3,2019,38061,Petrol,Automatic,2,Bhopal,2,20000
+auto,TVS,Model_1,2021,110808,Diesel,Automatic,3,Raipur,2,20000
+auto,TVS,Model_4,2015,61783,Diesel,Automatic,1,Ranchi,3,20000
+car,Hyundai,Model_4,2013,52606,Diesel,Automatic,3,Bhubaneswar,2,494788
+bike,Honda,Model_4,2016,145547,CNG,Manual,2,Indore,4,20000
+bike,Hero,Model_2,2023,138013,CNG,Manual,1,Ranchi,1,20000
+auto,TVS,Model_2,2013,135068,Diesel,Automatic,1,Bhubaneswar,5,20000
+truck,Tata,Model_1,2022,144842,CNG,Manual,1,Bhopal,2,190316
+truck,Tata,Model_3,2019,72285,Diesel,Automatic,2,Bhopal,1,265430
+bike,Honda,Model_5,2019,6634,Petrol,Automatic,2,Indore,4,20000
+auto,Bajaj,Model_3,2019,115275,Diesel,Manual,2,Ranchi,2,20000
+car,Maruti,Model_2,2016,16992,Petrol,Manual,1,Raipur,1,616016
+truck,Ashok Leyland,Model_1,2013,35023,Diesel,Manual,3,Bhubaneswar,4,249954
+auto,Bajaj,Model_3,2021,83730,CNG,Automatic,2,Bhopal,1,20000
+truck,Ashok Leyland,Model_5,2013,105168,Diesel,Manual,3,Indore,3,99664
+car,Tata,Model_4,2018,43546,Diesel,Manual,3,Ranchi,2,612908
+auto,Bajaj,Model_3,2019,145120,CNG,Manual,3,Bhopal,4,20000
+bike,TVS,Model_5,2012,115082,CNG,Manual,1,Indore,1,20000
+bike,Honda,Model_4,2017,31966,Diesel,Manual,2,Bhubaneswar,2,20000
+auto,TVS,Model_2,2010,100518,CNG,Automatic,2,Bhopal,4,20000
+truck,Ashok Leyland,Model_4,2013,76586,Diesel,Manual,1,Indore,2,146828
+car,Hyundai,Model_4,2012,114945,Diesel,Automatic,1,Ranchi,4,370110
+truck,Ashok Leyland,Model_4,2013,130451,CNG,Automatic,2,Ranchi,4,59098
+truck,Tata,Model_5,2014,79100,Petrol,Automatic,1,Bhubaneswar,3,171800
+auto,Bajaj,Model_2,2023,107983,Diesel,Automatic,3,Bhopal,1,20000
+bike,Honda,Model_2,2010,59006,CNG,Automatic,2,Ranchi,2,20000
+car,Honda,Model_2,2014,95157,Petrol,Manual,2,Bhopal,3,439686
+bike,Hero,Model_2,2012,25525,Diesel,Manual,1,Ranchi,1,20000
+bike,TVS,Model_4,2021,44287,CNG,Manual,3,Indore,4,20000
+truck,Tata,Model_2,2021,31669,Diesel,Automatic,3,Bhopal,5,426662
+auto,Bajaj,Model_2,2015,20858,Diesel,Automatic,3,Raipur,4,20000
+car,Tata,Model_2,2014,67572,Diesel,Manual,3,Bhubaneswar,3,494856
+truck,Tata,Model_5,2010,114374,Petrol,Automatic,2,Raipur,3,21252
+truck,Ashok Leyland,Model_4,2013,21222,CNG,Manual,1,Indore,1,247556
+car,Hyundai,Model_3,2013,20300,CNG,Automatic,1,Bhubaneswar,4,579400
+car,Honda,Model_2,2019,31200,CNG,Automatic,3,Bhopal,2,657600
+auto,Bajaj,Model_5,2019,20226,Diesel,Manual,3,Bhubaneswar,1,20000
+auto,TVS,Model_3,2022,36006,Petrol,Manual,3,Raipur,3,67988
+auto,Bajaj,Model_5,2018,124743,CNG,Automatic,2,Ranchi,3,20000
+truck,Tata,Model_5,2014,94727,Diesel,Automatic,3,Bhubaneswar,4,150546
+truck,Ashok Leyland,Model_1,2023,126853,Diesel,Manual,1,Indore,3,256294
+bike,TVS,Model_5,2010,125467,CNG,Automatic,3,Ranchi,5,20000
+car,Honda,Model_2,2016,146936,Diesel,Automatic,1,Bhopal,1,356128
+car,Honda,Model_5,2012,37818,CNG,Automatic,3,Bhopal,1,494364
+car,Honda,Model_5,2019,23289,Diesel,Manual,2,Indore,1,663422
+truck,Tata,Model_2,2011,7991,Diesel,Manual,2,Bhopal,2,244018
+bike,TVS,Model_4,2020,131422,Diesel,Manual,2,Ranchi,4,20000
+truck,Tata,Model_2,2018,63671,Diesel,Manual,2,Indore,2,272658
+auto,Bajaj,Model_2,2021,119896,Diesel,Automatic,2,Raipur,1,20000
+auto,Bajaj,Model_3,2016,20286,Diesel,Manual,1,Indore,3,20000
+bike,Honda,Model_4,2020,80182,Diesel,Automatic,3,Indore,4,20000
+bike,Yamaha,Model_5,2013,122976,CNG,Automatic,2,Bhubaneswar,1,20000
+bike,Hero,Model_2,2014,133563,Diesel,Manual,3,Bhubaneswar,4,20000
+auto,Bajaj,Model_1,2020,149050,CNG,Manual,1,Indore,1,20000
+bike,Yamaha,Model_4,2014,10619,CNG,Manual,2,Indore,5,20000
+bike,TVS,Model_3,2023,87929,Petrol,Manual,3,Raipur,4,20000
+truck,Ashok Leyland,Model_5,2021,123749,Petrol,Manual,1,Bhubaneswar,1,202502
+auto,TVS,Model_3,2011,79701,Petrol,Automatic,2,Bhubaneswar,2,20000
+bike,Honda,Model_5,2022,25802,CNG,Manual,2,Raipur,1,20000
+truck,Tata,Model_3,2014,10093,Diesel,Automatic,1,Raipur,1,289814
+bike,TVS,Model_1,2011,12474,Diesel,Automatic,1,Indore,5,20000
+bike,Hero,Model_3,2013,21949,Diesel,Automatic,3,Bhopal,5,20000
+truck,Ashok Leyland,Model_4,2011,78941,Diesel,Automatic,3,Ranchi,1,92118
+car,Hyundai,Model_5,2011,110234,Diesel,Automatic,3,Raipur,3,349532
+bike,Honda,Model_1,2021,65340,Diesel,Manual,1,Indore,1,20000
+car,Hyundai,Model_3,2017,94693,CNG,Manual,3,Raipur,2,490614
+truck,Ashok Leyland,Model_2,2011,86643,Diesel,Automatic,2,Bhopal,1,76714
+truck,Tata,Model_2,2018,51816,Diesel,Automatic,3,Raipur,4,316368
+bike,Hero,Model_3,2010,52848,CNG,Manual,3,Ranchi,2,20000
+truck,Ashok Leyland,Model_4,2012,68931,CNG,Manual,1,Bhopal,2,142138
+truck,Ashok Leyland,Model_2,2015,18589,CNG,Automatic,1,Bhubaneswar,5,332822
+truck,Tata,Model_5,2016,47030,CNG,Automatic,1,Bhopal,1,255940
+auto,Bajaj,Model_2,2022,95322,CNG,Automatic,2,Ranchi,3,20000
+bike,Honda,Model_1,2011,112727,CNG,Automatic,3,Ranchi,3,20000
+car,Tata,Model_3,2010,19442,Petrol,Manual,2,Bhubaneswar,5,531116
+truck,Tata,Model_2,2013,5179,CNG,Automatic,1,Bhopal,2,289642
+bike,TVS,Model_3,2022,65327,Diesel,Automatic,3,Raipur,4,20000
+auto,Bajaj,Model_3,2016,86205,CNG,Manual,2,Indore,1,20000
+car,Tata,Model_4,2010,126983,CNG,Manual,2,Raipur,4,306034
+car,Tata,Model_3,2010,44731,Petrol,Manual,2,Bhubaneswar,2,450538
+car,Maruti,Model_1,2021,131538,Petrol,Automatic,3,Raipur,3,506924
+auto,Bajaj,Model_5,2022,14929,Diesel,Manual,1,Indore,3,110142
+bike,Yamaha,Model_3,2019,113241,Diesel,Manual,1,Indore,3,20000
+truck,Tata,Model_1,2017,122565,CNG,Automatic,3,Indore,5,164870
+auto,TVS,Model_2,2014,144225,Diesel,Manual,1,Bhubaneswar,3,20000
+auto,TVS,Model_5,2021,30523,CNG,Manual,1,Bhubaneswar,1,38954
+truck,Ashok Leyland,Model_4,2013,97806,Diesel,Manual,2,Bhubaneswar,3,114388
+truck,Ashok Leyland,Model_4,2022,31164,CNG,Automatic,3,Bhubaneswar,2,417672
+car,Tata,Model_5,2019,120766,Diesel,Manual,3,Indore,1,468468
+truck,Ashok Leyland,Model_1,2011,109398,CNG,Manual,2,Bhopal,4,61204
+car,Hyundai,Model_2,2012,27922,CNG,Automatic,1,Indore,1,514156
+truck,Ashok Leyland,Model_3,2020,66174,Diesel,Manual,1,Indore,5,337652
+bike,Honda,Model_1,2020,7814,Diesel,Manual,2,Bhopal,4,20000
+auto,Bajaj,Model_5,2020,52632,Petrol,Automatic,2,Bhopal,2,20000
+bike,Hero,Model_4,2019,11130,CNG,Automatic,2,Ranchi,1,20000
+auto,Bajaj,Model_2,2010,88272,Diesel,Manual,3,Raipur,4,20000
+auto,Bajaj,Model_1,2012,23927,Diesel,Manual,2,Bhopal,1,20000
+auto,TVS,Model_2,2010,143433,Petrol,Automatic,3,Ranchi,5,20000
+bike,Hero,Model_2,2010,36828,Diesel,Automatic,1,Bhopal,5,20000
+truck,Ashok Leyland,Model_5,2016,106501,Petrol,Automatic,1,Raipur,3,156998
+truck,Ashok Leyland,Model_2,2019,32684,CNG,Automatic,3,Raipur,3,364632
+auto,TVS,Model_5,2011,116918,Diesel,Manual,2,Bhopal,3,20000
+auto,Bajaj,Model_5,2013,9236,CNG,Automatic,3,Indore,2,20000
+car,Tata,Model_4,2018,145370,Diesel,Automatic,2,Bhopal,3,419260
+auto,Bajaj,Model_1,2020,20321,CNG,Manual,1,Indore,2,49358
+truck,Ashok Leyland,Model_3,2018,30564,Diesel,Manual,2,Ranchi,4,358872
+bike,Hero,Model_5,2021,134325,CNG,Automatic,3,Ranchi,2,20000
+truck,Ashok Leyland,Model_3,2019,120602,CNG,Manual,3,Bhopal,4,198796
+auto,TVS,Model_5,2023,125002,Diesel,Manual,1,Bhopal,2,20000
+auto,TVS,Model_5,2013,93613,Petrol,Automatic,2,Indore,4,20000
+bike,Honda,Model_3,2023,133018,CNG,Automatic,3,Bhubaneswar,1,20000
+auto,Bajaj,Model_3,2020,85172,CNG,Manual,2,Bhopal,5,20000
+bike,Honda,Model_5,2021,119032,Petrol,Automatic,2,Bhubaneswar,2,20000
+car,Maruti,Model_2,2018,90571,Petrol,Automatic,2,Indore,3,528858
+car,Maruti,Model_3,2022,21174,CNG,Manual,2,Indore,3,747652
+car,Maruti,Model_3,2011,123920,Petrol,Automatic,1,Ranchi,1,302160
+truck,Ashok Leyland,Model_4,2018,72245,Diesel,Automatic,1,Raipur,2,255510
+auto,TVS,Model_2,2011,111199,Petrol,Automatic,3,Indore,5,20000
+truck,Tata,Model_4,2016,49358,CNG,Manual,3,Ranchi,5,291284
+auto,Bajaj,Model_2,2020,38160,Diesel,Manual,1,Bhubaneswar,1,20000
+car,Honda,Model_1,2019,36621,CNG,Automatic,3,Indore,3,656758
+bike,Yamaha,Model_3,2019,6370,Petrol,Automatic,1,Ranchi,2,20000
+bike,Honda,Model_5,2010,131427,Petrol,Manual,1,Ranchi,1,20000
+truck,Tata,Model_4,2012,120727,CNG,Automatic,1,Ranchi,2,38546
+truck,Tata,Model_1,2010,138325,CNG,Automatic,1,Bhubaneswar,1,20000
+truck,Tata,Model_5,2013,7655,Diesel,Automatic,2,Ranchi,4,304690
+auto,Bajaj,Model_3,2017,73031,CNG,Automatic,1,Raipur,1,20000
+truck,Ashok Leyland,Model_2,2021,35959,Petrol,Manual,1,Raipur,2,388082
+bike,TVS,Model_1,2012,30873,Diesel,Manual,2,Indore,3,20000
+auto,TVS,Model_1,2016,139216,Petrol,Automatic,1,Bhopal,1,20000
+auto,Bajaj,Model_1,2022,35068,Petrol,Manual,1,Ranchi,5,89864
+car,Maruti,Model_1,2011,52986,Petrol,Manual,1,Raipur,2,454028
+auto,TVS,Model_4,2011,90326,CNG,Manual,2,Indore,1,20000
+car,Tata,Model_5,2019,47263,Diesel,Automatic,3,Bhopal,5,655474
+bike,Hero,Model_4,2016,43647,Diesel,Automatic,3,Ranchi,2,20000
+bike,Hero,Model_2,2014,75733,Petrol,Automatic,2,Bhopal,1,20000
+car,Honda,Model_5,2013,12035,Petrol,Automatic,1,Bhopal,4,595930
+truck,Ashok Leyland,Model_4,2014,22367,Petrol,Manual,2,Bhubaneswar,1,265266
+auto,TVS,Model_3,2018,14001,CNG,Manual,2,Bhubaneswar,1,20000
+car,Honda,Model_5,2011,82504,Diesel,Manual,1,Indore,5,424992
+bike,Yamaha,Model_2,2011,141518,Petrol,Manual,1,Indore,2,20000
+bike,Yamaha,Model_4,2015,45919,CNG,Automatic,2,Ranchi,5,20000
+bike,Yamaha,Model_4,2017,37312,CNG,Automatic,2,Raipur,2,20000
+auto,TVS,Model_3,2013,112280,Petrol,Automatic,1,Indore,4,20000
+auto,TVS,Model_1,2012,38190,CNG,Automatic,1,Bhopal,4,20000
+car,Honda,Model_3,2022,52191,Petrol,Automatic,2,Ranchi,2,675618
+bike,Yamaha,Model_1,2011,27306,Petrol,Manual,3,Raipur,3,20000
+auto,Bajaj,Model_2,2011,111063,Petrol,Automatic,3,Bhubaneswar,2,20000
+car,Tata,Model_4,2021,146337,CNG,Automatic,2,Raipur,2,467326
+car,Honda,Model_1,2018,89584,CNG,Automatic,1,Raipur,1,510832
+car,Tata,Model_1,2010,37392,Diesel,Automatic,3,Bhopal,2,465216
+auto,Bajaj,Model_4,2022,49880,Diesel,Manual,2,Ranchi,5,60240
+auto,Bajaj,Model_1,2023,36795,Diesel,Manual,2,Bhubaneswar,2,76410
+car,Hyundai,Model_5,2018,128884,CNG,Automatic,2,Bhopal,4,462232
+bike,Honda,Model_4,2015,90695,Petrol,Automatic,3,Raipur,1,20000
+bike,TVS,Model_2,2018,85979,Petrol,Automatic,3,Bhubaneswar,5,20000
+bike,Honda,Model_1,2011,124714,Diesel,Manual,3,Raipur,3,20000
+bike,Yamaha,Model_3,2019,39061,Diesel,Manual,3,Raipur,4,20000
+car,Maruti,Model_3,2015,32248,Petrol,Manual,1,Raipur,3,585504
+bike,TVS,Model_3,2019,143047,Diesel,Manual,3,Ranchi,5,20000
+truck,Ashok Leyland,Model_4,2014,60882,Petrol,Manual,2,Bhopal,2,198236
+bike,TVS,Model_2,2016,131764,CNG,Automatic,3,Ranchi,4,20000
+bike,Hero,Model_2,2011,6848,Diesel,Manual,1,Bhubaneswar,1,20000
+auto,Bajaj,Model_1,2016,7512,Diesel,Automatic,1,Raipur,2,20000
+truck,Ashok Leyland,Model_5,2022,94584,Petrol,Manual,1,Bhopal,4,310832
+bike,TVS,Model_3,2019,31793,CNG,Automatic,2,Bhubaneswar,3,20000
+auto,Bajaj,Model_4,2021,39799,Petrol,Automatic,2,Bhubaneswar,3,40402
+bike,Yamaha,Model_4,2016,10978,CNG,Automatic,2,Bhopal,3,20000
+bike,Yamaha,Model_3,2019,51017,CNG,Automatic,1,Raipur,4,20000
+bike,Honda,Model_1,2019,97745,CNG,Automatic,1,Bhopal,2,20000
+car,Maruti,Model_4,2021,123058,CNG,Automatic,3,Indore,1,503884
+bike,Honda,Model_4,2023,110215,CNG,Manual,3,Bhopal,4,20000
+car,Honda,Model_2,2010,141437,CNG,Automatic,1,Indore,4,277126
+bike,Yamaha,Model_2,2016,111851,CNG,Automatic,2,Bhopal,3,20000
+bike,Honda,Model_3,2015,63591,CNG,Manual,3,Indore,4,20000
+car,Honda,Model_3,2013,6033,CNG,Manual,1,Bhopal,4,607934
+auto,TVS,Model_3,2020,40449,Petrol,Automatic,2,Raipur,2,20000
+truck,Tata,Model_5,2018,148544,Petrol,Automatic,2,Bhubaneswar,2,102912
+bike,Yamaha,Model_5,2012,80758,Diesel,Manual,3,Bhopal,2,20000
+auto,Bajaj,Model_5,2022,149361,Petrol,Manual,1,Indore,4,20000
+truck,Ashok Leyland,Model_3,2023,47504,CNG,Automatic,3,Bhubaneswar,3,414992
+bike,Yamaha,Model_1,2023,78365,Diesel,Manual,2,Ranchi,4,20000
+truck,Ashok Leyland,Model_4,2019,104181,Petrol,Automatic,1,Indore,2,211638
+auto,Bajaj,Model_5,2013,140875,CNG,Automatic,2,Bhopal,2,20000
+truck,Ashok Leyland,Model_3,2021,144306,Petrol,Automatic,3,Raipur,5,201388
+car,Honda,Model_1,2011,105060,CNG,Manual,2,Raipur,5,379880
+bike,TVS,Model_3,2019,86164,CNG,Manual,1,Ranchi,3,20000
+car,Tata,Model_4,2019,96902,Petrol,Manual,3,Bhopal,3,536196
+car,Maruti,Model_2,2010,6286,CNG,Manual,3,Raipur,2,527428
+auto,Bajaj,Model_3,2011,109406,Petrol,Automatic,2,Raipur,3,20000
+auto,TVS,Model_4,2012,66088,Petrol,Automatic,3,Ranchi,5,20000
+truck,Ashok Leyland,Model_4,2011,72350,Diesel,Manual,1,Indore,5,145300
+car,Maruti,Model_4,2021,96058,CNG,Manual,2,Bhopal,1,557884
+bike,Hero,Model_2,2012,20411,Petrol,Automatic,3,Raipur,4,20000
+auto,TVS,Model_4,2012,112898,Petrol,Automatic,2,Bhubaneswar,4,20000
+truck,Tata,Model_5,2018,17066,CNG,Automatic,2,Raipur,2,365868
+auto,TVS,Model_2,2012,59866,CNG,Manual,3,Bhopal,1,20000
+auto,Bajaj,Model_1,2016,81755,CNG,Manual,3,Bhubaneswar,3,20000
+car,Maruti,Model_3,2011,94556,Petrol,Manual,1,Indore,1,360888
+car,Maruti,Model_4,2022,99319,Diesel,Manual,1,Bhopal,3,591362
+car,Honda,Model_1,2015,18462,CNG,Automatic,1,Ranchi,1,593076
+truck,Ashok Leyland,Model_4,2022,145937,Petrol,Automatic,1,Raipur,2,188126
+car,Honda,Model_4,2015,16172,Petrol,Automatic,3,Ranchi,4,627656
+auto,Bajaj,Model_5,2019,52164,CNG,Manual,1,Bhubaneswar,5,20000
+car,Hyundai,Model_5,2017,141752,Diesel,Automatic,3,Indore,4,416496
+car,Tata,Model_4,2016,16809,CNG,Manual,1,Bhubaneswar,1,616382
+bike,TVS,Model_5,2014,130199,Diesel,Automatic,2,Bhopal,2,20000
+bike,Hero,Model_1,2021,114154,Petrol,Automatic,2,Bhopal,2,20000
+bike,Yamaha,Model_2,2021,113066,Diesel,Manual,1,Bhubaneswar,3,20000
+auto,TVS,Model_1,2010,48791,Diesel,Automatic,1,Ranchi,3,20000
+car,Honda,Model_3,2023,43829,Diesel,Automatic,1,Bhubaneswar,2,712342
+auto,Bajaj,Model_1,2013,86813,Diesel,Manual,3,Bhubaneswar,1,20000
+bike,Hero,Model_2,2013,72928,CNG,Automatic,1,Ranchi,1,20000
+car,Tata,Model_1,2011,18781,Petrol,Automatic,3,Indore,5,552438
+truck,Tata,Model_3,2019,35258,Diesel,Manual,2,Bhopal,2,349484
+truck,Tata,Model_3,2021,79993,Petrol,Manual,3,Ranchi,2,300014
+bike,TVS,Model_1,2019,11773,CNG,Automatic,3,Indore,5,20000
+truck,Tata,Model_5,2013,13023,Petrol,Manual,3,Bhubaneswar,2,273954
+car,Maruti,Model_3,2020,138779,Petrol,Manual,1,Ranchi,2,462442
+auto,TVS,Model_4,2012,70473,CNG,Manual,2,Raipur,3,20000
+truck,Tata,Model_3,2016,146087,CNG,Manual,2,Bhubaneswar,1,57826
+car,Hyundai,Model_2,2017,99205,CNG,Manual,3,Raipur,1,471590
+bike,TVS,Model_5,2022,71401,CNG,Manual,2,Bhubaneswar,4,20000
+car,Hyundai,Model_5,2018,72088,Petrol,Manual,3,Indore,5,585824
+bike,TVS,Model_4,2014,108321,Petrol,Automatic,3,Indore,5,20000
+auto,TVS,Model_4,2014,51037,Diesel,Automatic,1,Bhopal,2,20000
+bike,TVS,Model_5,2014,64896,CNG,Automatic,1,Indore,5,20000
+auto,Bajaj,Model_5,2022,116297,CNG,Manual,1,Ranchi,2,20000
+car,Tata,Model_3,2018,13197,Diesel,Automatic,1,Bhubaneswar,2,673606
+bike,TVS,Model_3,2020,146215,Petrol,Automatic,2,Bhubaneswar,1,20000
+auto,Bajaj,Model_1,2020,78640,Petrol,Manual,2,Raipur,5,20000
+truck,Tata,Model_1,2015,144893,Petrol,Automatic,2,Indore,2,50214
+truck,Ashok Leyland,Model_3,2014,125558,CNG,Automatic,3,Ranchi,4,88884
+car,Hyundai,Model_2,2011,56557,Petrol,Manual,1,Raipur,1,436886
+truck,Tata,Model_2,2011,27811,CNG,Manual,1,Bhubaneswar,5,234378
+truck,Ashok Leyland,Model_4,2021,118270,CNG,Manual,1,Bhopal,1,213460
+truck,Ashok Leyland,Model_5,2017,51097,Petrol,Automatic,3,Indore,3,287806
+bike,Honda,Model_1,2010,135229,Petrol,Manual,1,Indore,2,20000
+car,Honda,Model_5,2018,91107,Petrol,Manual,3,Ranchi,5,547786
+car,Tata,Model_1,2015,112927,CNG,Manual,3,Ranchi,2,414146
+car,Maruti,Model_4,2021,9962,Diesel,Manual,1,Bhopal,4,760076
+auto,Bajaj,Model_3,2023,142289,CNG,Manual,2,Bhopal,2,20000
+bike,TVS,Model_3,2014,19219,Diesel,Manual,2,Ranchi,2,20000
+truck,Tata,Model_3,2017,95072,Petrol,Automatic,1,Bhopal,2,189856
+auto,Bajaj,Model_2,2015,5372,CNG,Automatic,1,Indore,2,20000
+car,Maruti,Model_1,2023,140822,Diesel,Manual,3,Ranchi,1,508356
+bike,Hero,Model_1,2017,99707,Diesel,Manual,2,Indore,1,20000
+car,Hyundai,Model_4,2021,112091,Petrol,Manual,1,Bhubaneswar,1,525818
+truck,Ashok Leyland,Model_2,2010,134027,CNG,Automatic,2,Raipur,1,20000
+car,Tata,Model_1,2019,140359,Petrol,Manual,1,Ranchi,5,469282
+car,Maruti,Model_2,2022,89337,Petrol,Automatic,1,Ranchi,5,631326
+auto,TVS,Model_3,2022,141149,Diesel,Automatic,1,Bhopal,3,20000
+auto,TVS,Model_1,2017,48769,CNG,Automatic,2,Bhopal,1,20000
+auto,Bajaj,Model_2,2012,45923,Petrol,Manual,2,Bhubaneswar,1,20000
+truck,Ashok Leyland,Model_1,2014,35138,CNG,Manual,2,Ranchi,1,239724
+truck,Tata,Model_3,2023,74150,Diesel,Manual,2,Bhopal,3,361700
+auto,TVS,Model_3,2020,64321,Diesel,Automatic,3,Indore,2,20000
+bike,Honda,Model_2,2017,140516,Diesel,Automatic,2,Bhubaneswar,2,20000
+truck,Tata,Model_1,2019,33770,Diesel,Automatic,1,Raipur,2,352460
+bike,Yamaha,Model_5,2018,19322,Petrol,Manual,3,Ranchi,1,20000
+truck,Ashok Leyland,Model_5,2020,91542,Diesel,Manual,1,Raipur,3,266916
+truck,Ashok Leyland,Model_4,2010,112396,Diesel,Automatic,2,Ranchi,3,25208
+car,Honda,Model_2,2021,82577,CNG,Manual,2,Bhubaneswar,5,624846
+auto,TVS,Model_5,2010,99472,Diesel,Automatic,3,Raipur,3,20000
+truck,Tata,Model_5,2010,143891,CNG,Manual,3,Bhopal,4,20000
+car,Honda,Model_1,2010,144148,Petrol,Manual,3,Raipur,3,261704
+auto,TVS,Model_4,2014,104854,Petrol,Automatic,1,Ranchi,2,20000
+car,Tata,Model_3,2019,147607,CNG,Manual,1,Indore,4,444786
+bike,Honda,Model_5,2010,68786,CNG,Manual,3,Bhubaneswar,4,20000
+auto,TVS,Model_5,2012,104499,CNG,Automatic,2,Ranchi,2,20000
+truck,Ashok Leyland,Model_3,2023,86494,CNG,Manual,3,Bhopal,1,317012
+bike,Hero,Model_4,2018,31114,Petrol,Automatic,2,Bhopal,2,20000
+auto,TVS,Model_4,2019,66455,CNG,Manual,1,Bhopal,4,20000
+car,Honda,Model_4,2019,143766,Petrol,Automatic,3,Bhubaneswar,3,442468
+truck,Ashok Leyland,Model_2,2018,119496,Petrol,Automatic,2,Indore,4,181008
+truck,Ashok Leyland,Model_2,2022,71684,Diesel,Automatic,2,Bhopal,1,326632
+auto,Bajaj,Model_3,2013,23957,Diesel,Manual,1,Indore,3,20000
+auto,TVS,Model_2,2017,51649,Petrol,Manual,3,Raipur,3,20000
+auto,Bajaj,Model_4,2019,115184,Diesel,Manual,3,Raipur,4,20000
+truck,Tata,Model_1,2014,110964,Diesel,Automatic,2,Bhopal,5,128072
+car,Maruti,Model_4,2019,60252,CNG,Automatic,1,Ranchi,4,619496
+car,Tata,Model_3,2010,46093,CNG,Automatic,2,Bhubaneswar,2,447814
+car,Hyundai,Model_5,2021,109684,CNG,Manual,2,Ranchi,5,570632
+bike,Honda,Model_2,2021,94371,CNG,Automatic,3,Indore,4,20000
+car,Honda,Model_2,2010,48222,CNG,Manual,2,Ranchi,5,473556
+auto,TVS,Model_2,2017,119244,CNG,Manual,3,Indore,4,20000
+car,Maruti,Model_4,2018,60288,Diesel,Manual,3,Indore,2,579424
+auto,TVS,Model_4,2013,97477,CNG,Manual,3,Ranchi,4,20000
+auto,Bajaj,Model_1,2012,130383,Diesel,Automatic,1,Ranchi,1,20000
+truck,Ashok Leyland,Model_2,2022,72900,Petrol,Manual,1,Bhubaneswar,2,334200
+car,Tata,Model_1,2017,133278,CNG,Manual,1,Bhubaneswar,1,403444
+auto,TVS,Model_5,2021,101670,Petrol,Manual,2,Bhubaneswar,2,20000
+auto,Bajaj,Model_5,2022,143823,Diesel,Manual,3,Bhubaneswar,4,20000
+bike,TVS,Model_4,2011,9231,CNG,Manual,1,Bhubaneswar,4,20000
+bike,Honda,Model_1,2015,13854,Diesel,Automatic,1,Indore,4,20000
+bike,Yamaha,Model_1,2016,69893,CNG,Automatic,1,Ranchi,4,20000
+car,Maruti,Model_2,2012,100813,CNG,Manual,3,Ranchi,2,378374
+car,Tata,Model_2,2019,53434,Petrol,Manual,2,Bhubaneswar,2,613132
+auto,TVS,Model_2,2015,74652,Diesel,Manual,1,Bhopal,5,20000
+truck,Ashok Leyland,Model_2,2013,77564,Diesel,Manual,1,Raipur,5,174872
+bike,Honda,Model_2,2013,44238,Diesel,Automatic,3,Indore,5,20000
+truck,Tata,Model_2,2020,141636,Petrol,Automatic,2,Raipur,4,176728
+bike,Honda,Model_4,2019,84879,CNG,Manual,2,Ranchi,5,20000
+auto,Bajaj,Model_4,2019,30860,Petrol,Automatic,1,Bhubaneswar,3,20000
+bike,Yamaha,Model_2,2013,105782,Diesel,Automatic,3,Indore,1,20000
+truck,Tata,Model_4,2014,69636,CNG,Manual,3,Bhopal,5,210728
+truck,Tata,Model_5,2021,85845,CNG,Automatic,2,Ranchi,2,288310
+bike,Hero,Model_1,2021,111958,CNG,Manual,2,Bhopal,5,20000
+truck,Ashok Leyland,Model_5,2013,30263,Diesel,Manual,3,Raipur,5,269474
+truck,Ashok Leyland,Model_4,2014,41324,CNG,Manual,1,Ranchi,3,247352
+car,Tata,Model_1,2011,21524,Diesel,Manual,3,Bhopal,1,506952
+bike,TVS,Model_2,2019,17553,CNG,Manual,1,Indore,2,20000
+bike,TVS,Model_4,2016,116581,Diesel,Manual,1,Indore,3,20000
+bike,Hero,Model_5,2015,72443,Diesel,Automatic,1,Bhopal,4,20000
+bike,Hero,Model_2,2019,49485,Diesel,Manual,2,Bhopal,4,20000
+auto,TVS,Model_1,2021,54921,Diesel,Manual,2,Indore,2,20000
+auto,Bajaj,Model_5,2015,74674,Diesel,Manual,2,Raipur,3,20000
+auto,TVS,Model_2,2018,142223,Diesel,Automatic,1,Ranchi,4,20000
+bike,Yamaha,Model_5,2012,73892,Diesel,Automatic,1,Bhubaneswar,4,20000
+car,Maruti,Model_1,2010,86203,CNG,Manual,1,Bhopal,2,367594
+bike,Hero,Model_2,2012,100977,Petrol,Automatic,3,Bhubaneswar,5,20000
+truck,Ashok Leyland,Model_4,2017,8374,CNG,Automatic,2,Bhopal,3,373252
+auto,TVS,Model_5,2010,99746,CNG,Automatic,3,Bhopal,1,20000
+bike,Yamaha,Model_2,2021,85671,Petrol,Manual,3,Raipur,5,20000
+truck,Ashok Leyland,Model_4,2012,134808,Petrol,Manual,3,Ranchi,1,20000
+auto,Bajaj,Model_1,2014,58165,CNG,Automatic,2,Raipur,5,20000
+bike,Honda,Model_2,2014,62599,Petrol,Automatic,1,Raipur,2,20000
+car,Hyundai,Model_2,2020,133363,Diesel,Automatic,2,Bhubaneswar,3,483274
+truck,Ashok Leyland,Model_4,2023,71527,CNG,Manual,2,Raipur,3,366946
+bike,Hero,Model_5,2013,53895,CNG,Manual,1,Indore,4,20000
+bike,Hero,Model_5,2013,113992,Petrol,Automatic,2,Indore,5,20000
+bike,TVS,Model_2,2018,86778,Diesel,Manual,1,Ranchi,1,20000
+auto,Bajaj,Model_3,2021,126633,Petrol,Automatic,2,Raipur,2,20000
+bike,Hero,Model_3,2022,146869,CNG,Manual,1,Indore,5,20000
+car,Maruti,Model_2,2022,111618,Petrol,Automatic,2,Bhubaneswar,4,576764
+auto,TVS,Model_5,2022,73991,Diesel,Manual,2,Ranchi,4,20000
+bike,TVS,Model_4,2022,88053,Petrol,Automatic,1,Raipur,1,20000
+auto,TVS,Model_4,2018,128357,Petrol,Automatic,3,Bhubaneswar,3,20000
+car,Tata,Model_3,2023,12575,Petrol,Automatic,2,Ranchi,4,794850
+truck,Tata,Model_2,2012,125559,Petrol,Automatic,3,Indore,5,58882
+truck,Tata,Model_3,2018,122025,Diesel,Automatic,1,Indore,3,165950
+car,Honda,Model_2,2011,52446,Diesel,Manual,2,Bhubaneswar,3,465108
+bike,Hero,Model_1,2022,120413,CNG,Manual,1,Bhopal,4,20000
+truck,Tata,Model_2,2018,23790,CNG,Automatic,2,Bhopal,5,382420
+bike,Yamaha,Model_2,2023,59218,CNG,Manual,1,Indore,4,20000
+car,Maruti,Model_5,2016,15059,Diesel,Manual,3,Bhubaneswar,4,649882
+auto,TVS,Model_3,2018,29736,Petrol,Automatic,3,Raipur,2,20000
+truck,Ashok Leyland,Model_2,2017,43279,Petrol,Automatic,1,Raipur,5,323442
+auto,TVS,Model_4,2015,24467,CNG,Manual,1,Raipur,5,20000
+bike,Honda,Model_2,2013,19177,Petrol,Manual,2,Ranchi,3,20000
+bike,Yamaha,Model_3,2021,148870,Petrol,Manual,1,Ranchi,5,20000
+car,Tata,Model_5,2023,10738,Petrol,Manual,2,Bhubaneswar,4,798524
+car,Maruti,Model_1,2012,92712,CNG,Manual,1,Indore,4,414576
+truck,Ashok Leyland,Model_1,2016,49108,CNG,Manual,3,Raipur,2,261784
+bike,TVS,Model_4,2017,94435,CNG,Automatic,2,Bhopal,3,20000
+bike,TVS,Model_5,2016,44659,Diesel,Manual,3,Raipur,5,20000
+truck,Tata,Model_5,2019,123400,CNG,Manual,2,Bhopal,2,173200
+car,Maruti,Model_1,2015,31760,Petrol,Manual,3,Raipur,5,606480
+auto,Bajaj,Model_2,2021,100816,CNG,Manual,2,Ranchi,4,20000
+bike,Yamaha,Model_3,2022,39946,Petrol,Automatic,2,Bhopal,3,20000
+auto,Bajaj,Model_4,2021,126212,Petrol,Automatic,1,Raipur,3,20000
+bike,Yamaha,Model_3,2016,28924,Diesel,Manual,2,Ranchi,1,20000
+car,Maruti,Model_1,2019,146531,CNG,Automatic,1,Bhubaneswar,2,426938
+auto,Bajaj,Model_5,2013,46911,Diesel,Automatic,3,Bhubaneswar,4,20000
+auto,Bajaj,Model_2,2022,148064,CNG,Manual,3,Raipur,3,20000
+bike,Honda,Model_5,2021,116573,Diesel,Automatic,3,Raipur,1,20000
+truck,Tata,Model_5,2013,127088,CNG,Manual,3,Bhopal,2,45824
+truck,Tata,Model_1,2010,14576,CNG,Automatic,2,Indore,2,210848
+bike,Yamaha,Model_5,2017,52655,Diesel,Automatic,3,Indore,3,20000
+truck,Tata,Model_1,2017,19362,CNG,Manual,2,Indore,5,371276
+car,Tata,Model_3,2022,68995,Diesel,Automatic,3,Bhubaneswar,4,662010
+truck,Tata,Model_5,2013,103630,Diesel,Automatic,1,Raipur,2,92740
+auto,TVS,Model_4,2022,22609,Petrol,Manual,1,Indore,4,104782
+car,Hyundai,Model_1,2013,15280,CNG,Manual,2,Ranchi,5,599440
+auto,Bajaj,Model_5,2014,79071,Diesel,Manual,3,Ranchi,4,20000
+truck,Tata,Model_3,2022,95049,Petrol,Manual,1,Bhopal,1,279902
+auto,Bajaj,Model_4,2023,108376,CNG,Manual,2,Ranchi,1,20000
+car,Tata,Model_4,2017,141142,CNG,Automatic,1,Indore,3,407716
+bike,TVS,Model_1,2017,107485,Diesel,Manual,1,Bhubaneswar,2,20000
+truck,Ashok Leyland,Model_4,2011,109187,CNG,Automatic,3,Bhubaneswar,3,51626
+truck,Ashok Leyland,Model_1,2020,69700,CNG,Manual,1,Ranchi,4,320600
+truck,Ashok Leyland,Model_2,2012,36955,CNG,Automatic,3,Raipur,1,196090
+truck,Tata,Model_3,2017,99369,Diesel,Manual,2,Ranchi,1,171262
+bike,Hero,Model_4,2022,31581,Diesel,Manual,1,Ranchi,1,20000
+auto,TVS,Model_4,2011,133855,Diesel,Automatic,3,Raipur,2,20000
+auto,Bajaj,Model_5,2020,144466,Petrol,Manual,3,Raipur,5,20000
+bike,Hero,Model_2,2021,10174,Petrol,Automatic,1,Raipur,4,29652
+auto,Bajaj,Model_4,2019,143149,CNG,Automatic,2,Raipur,3,20000
+bike,Honda,Model_3,2014,142015,CNG,Manual,2,Bhopal,5,20000
+auto,TVS,Model_2,2016,58064,Petrol,Manual,3,Bhopal,5,20000
+bike,Hero,Model_2,2010,129384,Diesel,Automatic,3,Raipur,5,20000
+auto,TVS,Model_4,2021,41750,CNG,Manual,2,Ranchi,1,20000
+car,Hyundai,Model_1,2010,123151,Petrol,Automatic,1,Bhubaneswar,5,323698
+truck,Tata,Model_3,2019,19897,Petrol,Automatic,3,Raipur,2,380206
+car,Maruti,Model_1,2013,134791,CNG,Automatic,3,Bhubaneswar,4,350418
+truck,Ashok Leyland,Model_4,2013,79541,Petrol,Manual,2,Raipur,4,160918
+auto,Bajaj,Model_4,2022,86261,Petrol,Automatic,1,Raipur,3,20000
+bike,Honda,Model_1,2011,11316,Diesel,Manual,3,Bhopal,2,20000
+car,Honda,Model_2,2019,81913,Petrol,Automatic,3,Bhubaneswar,2,556174
+auto,Bajaj,Model_3,2023,145243,Diesel,Manual,2,Bhubaneswar,1,20000

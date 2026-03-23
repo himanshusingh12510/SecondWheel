@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="card">
+  <div class="card-pad" style="padding:24px;">
+    <h1 style="margin:0 0 8px; font-size:34px;">AI Vehicle Price Predictor + Marketplace</h1>
+    <p class="muted" style="margin:0 0 18px;">Predict fair price, post listings, and browse verified vehicles with AI tags.</p>
+
+    <div style="display:flex; gap:12px; flex-wrap:wrap;">
+      <a class="btn primary" href="/predict">Predict Price</a>
+      <a class="btn" href="/listings">Browse Marketplace</a>
+      <a class="btn" href="/insights">Model Insights</a>
+      {% if session.get('user_id') %}
+        <a class="btn success" href="/post">Post Listing</a>
+      {% else %}
+        <a class="btn success" href="/register">Create Account</a>
+      {% endif %}
+    </div>
+
+    <div class="grid" style="grid-template-columns: repeat(5, minmax(0,1fr)); margin-top:18px;">
+      <div class="card"><div class="card-pad">
+        <div class="muted" style="font-size:12px;">Total Listings</div>
+        <div style="font-weight:900; font-size:18px;">{{ total_listings }}</div>
+      </div></div>
+      <div class="card"><div class="card-pad">
+        <div class="muted" style="font-size:12px;">Approved</div>
+        <div style="font-weight:900; font-size:18px;">{{ approved_listings }}</div>
+      </div></div>
+      <div class="card"><div class="card-pad">
+        <div class="muted" style="font-size:12px;">Pending</div>
+        <div style="font-weight:900; font-size:18px;">{{ pending_listings }}</div>
+      </div></div>
+      <div class="card"><div class="card-pad">
+        <div class="muted" style="font-size:12px;">Underpriced Deals</div>
+        <div style="font-weight:900; font-size:18px;">{{ underpriced }}</div>
+      </div></div>
+      <div class="card"><div class="card-pad">
+        <div class="muted" style="font-size:12px;">Avg Approved Price</div>
+        <div style="font-weight:900; font-size:18px;">₹{{ avg_price }}</div>
+      </div></div>
+    </div>
+
+    <style>
+      @media (max-width: 900px){
+        .grid[style*="repeat(5"]{ grid-template-columns: repeat(2, minmax(0,1fr)) !important; }
+      }
+      @media (max-width: 520px){
+        .grid[style*="repeat(5"]{ grid-template-columns: 1fr !important; }
+      }
+    </style>
+
+  </div>
+</div>
+{% endblock %}

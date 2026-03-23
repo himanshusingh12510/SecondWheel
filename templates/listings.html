@@ -1,0 +1,131 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="card">
+  <div class="card-pad" style="padding:22px;">
+    <div style="display:flex; justify-content:space-between; align-items:flex-end; gap:12px; flex-wrap:wrap;">
+      <div>
+        <h2 style="margin:0;">Marketplace</h2>
+        <p class="muted" style="margin:6px 0 0;">Verified listings with AI pricing tags.</p>
+      </div>
+      <a class="btn success" href="/post">+ Post Listing</a>
+    </div>
+
+    <form method="GET" style="margin-top:16px;">
+      <div class="card" style="border-radius:16px; background: rgba(255,255,255,.05);">
+        <div class="card-pad" style="padding:14px;">
+          <div style="display:grid; grid-template-columns: 1.1fr 1.2fr 0.8fr 0.8fr 1fr auto; gap:10px; align-items:end;">
+            <div>
+              <label>Vehicle</label>
+              <select name="vehicle_type" class="input">
+                <option value="" {{ 'selected' if vehicle_type=='' else '' }}>All Types</option>
+                <option value="car" {{ 'selected' if vehicle_type=='car' else '' }}>Car</option>
+                <option value="bike" {{ 'selected' if vehicle_type=='bike' else '' }}>Bike</option>
+                <option value="truck" {{ 'selected' if vehicle_type=='truck' else '' }}>Truck</option>
+                <option value="auto" {{ 'selected' if vehicle_type=='auto' else '' }}>Auto</option>
+              </select>
+            </div>
+
+            <div>
+              <label>City</label>
+              <input class="input" name="city" placeholder="e.g. Bhubaneswar" value="{{ city }}">
+            </div>
+
+            <div>
+              <label>Min ₹</label>
+              <input class="input" type="number" name="min_price" value="{{ min_price }}">
+            </div>
+
+            <div>
+              <label>Max ₹</label>
+              <input class="input" type="number" name="max_price" value="{{ max_price }}">
+            </div>
+
+            <div>
+              <label>Sort</label>
+              <select name="sort" class="input">
+                <option value="" {{ 'selected' if sort=='' else '' }}>Newest</option>
+                <option value="low" {{ 'selected' if sort=='low' else '' }}>Price: Low → High</option>
+                <option value="high" {{ 'selected' if sort=='high' else '' }}>Price: High → Low</option>
+              </select>
+            </div>
+
+            <div style="display:flex; gap:10px;">
+              <button class="btn primary" type="submit">Apply</button>
+              <a class="btn" href="/listings">Reset</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </form>
+
+    {% if listings|length == 0 %}
+      <div class="card" style="margin-top:16px;">
+        <div class="card-pad">
+          <h3 style="margin:0;">No listings found</h3>
+          <p class="muted" style="margin:8px 0 0;">Try changing filters or post a listing.</p>
+        </div>
+      </div>
+    {% else %}
+      <div style="margin-top:16px; display:grid; grid-template-columns: repeat(auto-fit, minmax(290px, 1fr)); gap:14px;">
+        {% for l in listings %}
+          <a href="/listing/{{ l['id'] }}" class="card" style="display:block;">
+            <div style="height:170px; background: rgba(255,255,255,.04); border-bottom:1px solid rgba(255,255,255,.06); overflow:hidden;">
+              {% if l["image"] %}
+                <img src="/static/uploads/{{ l['image'] }}" alt="Vehicle" style="width:100%; height:100%; object-fit:cover;">
+              {% else %}
+                <img src="https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=60"
+                     alt="Vehicle" style="width:100%; height:100%; object-fit:cover;">
+              {% endif %}
+            </div>
+
+            <div class="card-pad" style="padding:16px;">
+              <div style="display:flex; justify-content:space-between; gap:12px; align-items:flex-start;">
+                <div>
+                  <div class="muted" style="font-size:12px; text-transform:uppercase; letter-spacing:.6px;">
+                    {{ l['vehicle_type'] }} • {{ l['city'] }}
+                  </div>
+                  <h3 style="margin:6px 0 0; font-size:18px;">{{ l['brand'] }} {{ l['model'] }}</h3>
+                  <div class="muted" style="margin-top:6px; font-size:13px;">
+                    {{ l['year'] }} • {{ l['kms'] }} km • {{ l['fuel_type'] }} • {{ l['transmission'] }}
+                  </div>
+                </div>
+
+                <div style="text-align:right;">
+                  <div style="font-weight:900; font-size:20px;">₹{{ l['listed_price'] }}</div>
+                  <div class="muted" style="font-size:12px;">listed</div>
+                </div>
+              </div>
+
+              <div style="display:flex; align-items:center; justify-content:space-between; margin-top:12px;">
+                <div>
+                  {% if l['price_tag'] == "Underpriced" %}
+                    <span class="badge ok">Underpriced</span>
+                  {% elif l['price_tag'] == "Fair" %}
+                    <span class="badge warn">Fair</span>
+                  {% elif l['price_tag'] == "Overpriced" %}
+                    <span class="badge bad">Overpriced</span>
+                  {% else %}
+                    <span class="badge">AI Tag</span>
+                  {% endif %}
+                </div>
+                <span class="btn" style="padding:8px 12px;">View →</span>
+              </div>
+            </div>
+          </a>
+        {% endfor %}
+      </div>
+    {% endif %}
+  </div>
+</div>
+
+<style>
+@media (max-width: 900px){
+  form [style*="grid-template-columns"]{ grid-template-columns: 1fr 1fr !important; }
+}
+@media (max-width: 560px){
+  form [style*="grid-template-columns"]{ grid-template-columns: 1fr !important; }
+}
+</style>
+
+{% endblock %}
